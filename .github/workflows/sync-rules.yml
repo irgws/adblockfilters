@@ -11,19 +11,56 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    env:
-      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # ← 这就是之前缺的一行
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Download all assets from upstream release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh release download rule \
-            --repo 217heidai/adblockfilters \
-            --dir rules/ \
-            --clobber
+          set -euo pipefail
+
+          UPSTREAM="217heidai/adblockfilters"
+          TAG="rule"
+          OUT="rules"
+
+          mkdir -p "$OUT"
+
+          # === 第 1 步：通过 API 获取 asset URL 列表（仅 1 次 API 调用）===
+          echo ">>> 获取 release 资产列表..."
+          ASSET_URLS=$(curl -sf \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${UPSTREAM}/releases/tags/${TAG}" \
+            | jq -r '.assets[].browser_download_url')
+
+          COUNT=$(echo "$ASSET_URLS" | grep -c . || true)
+          echo ">>> 共找到 $COUNT 个资产"
+
+          if [ "$COUNT" -eq 0 ]; then
+            echo "::error::未找到任何资产，请检查 tag '$TAG' 是否存在"
+            exit 1
+          fi
+
+          # === 第 2 步：逐个下载（走 CDN，不受 API 限流）===
+          while IFS= read -r url; do
+            fname=$(basename "$url")
+            echo ">>> 下载: $fname"
+            curl -sfL -o "${OUT}/${fname}" "$url"
+          done <<< "$ASSET_URLS"
+
+          # === 第 3 步：验证文件数量 ===
+          TOTAL=$(find "$OUT" -type f | wc -l)
+          echo ">>> $OUT/ 目录共 $TOTAL 个文件"
+
+          if [ "$TOTAL" -ne "$COUNT" ]; then
+            echo "::error::预期 $COUNT 个文件，实际只有 $TOTAL 个"
+            exit 1
+          fi
+
+          echo ">>> 全部下载完成"
+          ls -lh "$OUT/"
 
       - name: Check for changes
         id: changes
