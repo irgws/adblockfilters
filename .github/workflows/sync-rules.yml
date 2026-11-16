@@ -11,6 +11,9 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # ← 这就是之前缺的一行
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
