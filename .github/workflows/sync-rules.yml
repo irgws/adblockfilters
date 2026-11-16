@@ -15,20 +15,53 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Create rules directory
-        run: mkdir -p rules
+      - name: Download all assets from upstream release
+        run: |
+          set -euo pipefail
 
-      - name: Download all release assets
-        uses: robinraju/release-downloader@v1
-        with:
-          repository: 217heidai/adblockfilters
-          tag: rule
-          fileName: '*'          # ← 关键：匹配所有 asset
-          tarBall: false
-          zipBall: false
-          out-file-path: rules/
+          UPSTREAM_REPO="217heidai/adblockfilters"
+          TAG="rule"
+          OUT_DIR="rules"
 
-      - name: Check changes
+          mkdir -p "$OUT_DIR"
+
+          # 获取 release 信息（含所有 asset 的下载链接）
+          echo ">>> Fetching release info for tag: $TAG"
+          RESPONSE=$(curl -sSL \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${UPSTREAM_REPO}/releases/tags/${TAG}")
+
+          # 检查 API 是否返回错误
+          if echo "$RESPONSE" | grep -q '"message"'; then
+            echo "ERROR: GitHub API returned an error:"
+            echo "$RESPONSE" | head -5
+            exit 1
+          fi
+
+          # 提取所有 asset 的 browser_download_url
+          URLS=$(echo "$RESPONSE" | jq -r '.assets[].browser_download_url')
+
+          # 检查是否获取到了链接
+          COUNT=$(echo "$URLS" | wc -l)
+          echo ">>> Found $COUNT assets to download"
+
+          if [ "$COUNT" -eq 0 ]; then
+            echo "ERROR: No assets found in release. Aborting."
+            exit 1
+          fi
+
+          # 逐个下载
+          while IFS= read -r url; do
+            filename=$(basename "$url")
+            echo ">>> Downloading: $filename"
+            curl -sSL -o "${OUT_DIR}/${filename}" "$url"
+          done <<< "$URLS"
+
+          echo ">>> Done. Files in $OUT_DIR/:"
+          ls -la "$OUT_DIR/"
+          echo "Total: $(ls "$OUT_DIR" | wc -l) files"
+
+      - name: Check for changes
         id: changes
         run: |
           if git diff --quiet && git diff --staged --quiet; then
