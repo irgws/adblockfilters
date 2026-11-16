@@ -2,9 +2,7 @@ name: Sync AdBlock Rules
 
 on:
   schedule:
-    # 每 8 小时执行一次（UTC 0:00, 8:00, 16:00）
     - cron: '0 */8 * * *'
-  # 也支持手动触发，方便测试
   workflow_dispatch:
 
 permissions:
@@ -14,24 +12,22 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      # 1. 检出你的仓库
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 2. 从上游 rule Release 下载全部资源
-      - name: Download release assets
-        uses: robinraju/release-downloader@v1.13
+      - name: Create rules directory
+        run: mkdir -p rules
+
+      - name: Download all release assets
+        uses: robinraju/release-downloader@v1
         with:
           repository: 217heidai/adblockfilters
           tag: rule
-          out-file-path: rules/
-          # 不下载 tarball/zipball，只要具体文件
+          fileName: '*'          # ← 关键：匹配所有 asset
           tarBall: false
           zipBall: false
+          out-file-path: rules/
 
-      # 3. 检查是否有变更
       - name: Check changes
         id: changes
         run: |
@@ -41,7 +37,6 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      # 4. 有变更才提交推送
       - name: Commit and push
         if: steps.changes.outputs.changed == 'true'
         run: |
