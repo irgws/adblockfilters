@@ -12,22 +12,24 @@
 
 ## 订阅链接
 
-1. 规则x' 为规则x的 Lite 版，仅针对国内域名拦截，体积较小（如添加完整规则报错数量限制，请尝试 Lite 规则）
-2. AdGuard Home 等 DNS 拦截服务使用规则1
-3. AdGuard 等浏览器插件使用规则1 + 规则2（规则2为规则1的补充，仅适用浏览器插件）
-4. InviZible Pro、personalDNSfilter 使用规则3（规则3与规则1拦截域名一致，仅格式差异）
-5. DNSMasq 使用规则4（与规则1拦截域名一致，仅格式差异）
-6. SmartDNS 使用规则5（与规则1拦截域名一致，仅格式差异）
-7. Shadowrocket 使用规则6（与规则1拦截域名一致，仅格式差异）
-8. Shadowrocket Module 使用规则7
-9. QuantumultX 使用规则8（与规则1拦截域名一致，仅格式差异）
-10. Clash Meta(Mihomo) 使用规则9 yaml 或 规则10 mrs（与规则1拦截域名一致，仅格式差异）
+0. 规则x' 为规则x的 Lite 版，仅针对国内域名拦截，体积较小（如添加完整规则报错数量限制，请尝试 Lite 规则）
+1. AdGuard Home 等 DNS 拦截服务使用规则1
+2. AdGuard 等浏览器插件使用规则1 + 规则2（规则2为规则1的补充，仅适用浏览器插件）
+3. InviZible Pro、personalDNSfilter 使用规则3（规则3与规则1拦截域名一致，仅格式差异）
+4. DNSMasq 使用规则4（与规则1拦截域名一致，仅格式差异）
+5. SmartDNS 使用规则5（与规则1拦截域名一致，仅格式差异）
+6. Shadowrocket 使用规则6（与规则1拦截域名一致，仅格式差异）
+7. Shadowrocket Module 使用规则7
+8. QuantumultX 使用规则8（与规则1拦截域名一致，仅格式差异）
+9. Clash Meta(Mihomo) 使用规则9 yaml 
+10. Clash Meta(Mihomo) 使用规则9 yaml 生成规则10 mrs（与规则1拦截域名一致，仅格式差异）
 11. Hosts 使用规则11（与规则1拦截域名一致，仅格式差异）
-12. sing-box 1.12+ 使用规则12 json 或 规则13 srs（与规则1拦截域名一致，仅格式差异）
-13. Loon 使用规则14（与规则1拦截域名一致，仅格式差异）
-14. Surge 使用规则15（与规则1拦截域名一致，仅格式差异）
-15. MosDNS 使用规则16（与规则1拦截域名一致，仅格式差异）
-16. V2ray、Xray 使用规则17（category-ads-all）
+12. sing-box 1.12+ 使用规则12 json 
+13. sing-box 1.12+ 使用规则12 json 生成规则13 srs（与规则1拦截域名一致，仅格式差异）
+14. Loon 使用规则14（与规则1拦截域名一致，仅格式差异）
+15. Surge 使用规则15（与规则1拦截域名一致，仅格式差异）
+16. MosDNS 使用规则16（与规则1拦截域名一致，仅格式差异）
+17. V2ray、Xray 使用规则17（category-ads-all）
 
 | 规则 | 原始链接 | 加速链接1 | 加速链接2 | 加速链接3 | 加速链接4 | 适配说明 |
 |:-|:-|:-|:-|:-|:-|:-|
@@ -75,4 +77,4 @@
 
 ## 致谢
 
-本项目规则来源于 [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters)，感谢原作者的持续维护。   
+本项目规则来源于 [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters)，感谢原作者的持续维护。
