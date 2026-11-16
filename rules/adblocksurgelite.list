@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/11/16 13:46:57
-#!support=5992
+#!date=2026/11/17 02:11:10
+#!support=6008
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
@@ -156,6 +156,7 @@
 .301848.com
 .d1.3158.cn
 .www.31d.net
+.325497.cn
 .mg.32r.com
 .345ddz.com
 .34dcvgw197.com
@@ -383,6 +384,7 @@
 .9377os.com
 .93ta.cn
 .93txjw4rt2.com
+.ads.cdn.951dns.com
 .ads.95516.com
 .analytics.95516.com
 .1.95ye.com
@@ -737,6 +739,7 @@
 .ftwo-receiver.autohome.com.cn
 .idm.api.autohome.com.cn
 .pcd.autohome.com.cn
+.pcmx.autohome.com.cn
 .push.app.autohome.com.cn
 .pvx.autohome.com.cn
 .rd.autohome.com.cn
@@ -1676,6 +1679,7 @@
 .stats.v.duowan.com
 .vupload.duowan.com
 .sentry.duozhuayu.net
+.adsmis.duxiaoman.com
 .analytics-api.dvdfab.cn
 .servo-report.dvdfab.cn
 .dvtednm.cn
@@ -1936,10 +1940,12 @@
 .ganjituiguang.ganji.com
 .sta.ganji.com
 .tralog.ganji.com
+.static.gaomaer.cn
 .gaoshouyou.com
 .images8.gaotie.cn
 .gardenmarkets.shop
 .trk.gardnerdenver.com.cn
+.diauth.garmin.cn
 .gcbflvx.cn
 .statistics.gd.gov.cn
 .gdtimg.com
@@ -1959,7 +1965,6 @@
 .getui.net
 .biz.gexing.com
 .ggmm777.com
-.ggo10150lq.com
 .ghsnhjk.cn
 .gi.cn
 .beacon-ad.ztgame.com.giantcdn.com
@@ -2433,7 +2438,6 @@
 .u8.hujiang.com
 .log.hunantv.com
 .log.v2.hunantv.com
-.hungfei.com
 .huoche.com.cn
 .huoying666.com
 .collect.hupu.com
@@ -2700,6 +2704,7 @@
 .jiezoiq.cn
 .jiguang.cn
 .ad.open.api.jihuoniao.com
+.ad.report.jihuoniao.com
 .target.ads.jihuoniao.com
 .jinbeideutschland.shop
 .wuliao.jingyanben.com
@@ -2715,6 +2720,7 @@
 .yqg.jobui.com
 .jollyspring.com
 .email-ap.joneslanglasalle.com.cn
+.ad.jooancloud.com
 .telemetry.api.joox.com
 .log.joyapi.com
 .sentry.joybest.com.cn
@@ -2984,6 +2990,7 @@
 .banana.le.com
 .cherry.le.com
 .stat.le.com
+.ld-analytics.leadongcdn.com
 .ledger-nano.com
 .ledger.net.cn
 .ads-api-o.api.leiniao.com
@@ -3144,6 +3151,7 @@
 .meihu56.cn
 .meinuovip.com
 .meiqia.com
+.sentry.meitu-int.com
 .corp.meitu.com
 .gg.meitu.com
 .message.meitu.com
@@ -3286,7 +3294,6 @@
 .zzz-log-upload.mihoyo.com
 .trk.miltonroy.com.cn
 .playable-stats.mindworks-creative.com
-.ad.mingruidata.com
 .mintegral.com
 .insight.mintel.com
 .wm.mipcdn.com
@@ -3401,7 +3408,6 @@
 .a.munters.cn
 .mvamnng.cn
 .mxevdii.cn
-.my-hr.cn
 .ads.api.my7v.com
 .apiyd.my91app.com
 .mya2pg8cdg.com
@@ -3465,6 +3471,7 @@
 .dl.natgo.cn
 .nb4ds7c13d.com
 .v66-ad.ndcjl.com
+.dc.stat.nearme.com.cn
 .sdk.stat.foreign.nearme.com.cn
 .stat.browser.nearme.com.cn
 .storedl4f.nearme.com.cn
@@ -3648,6 +3655,7 @@
 .penxiangge.com
 .counter.people.cn
 .ads.people.com.cn
+.pmm.people.com.cn
 .pepnsnq.cn
 .pepsico.com.cn
 .pfhub.petitfute.cn
@@ -3687,6 +3695,7 @@
 .i.pokerbros.net
 .polksvo.vercel.app
 .polyfill-js.cn
+.stats-cdn.polyspeak.ai
 .pooldayshop.shop
 .poopflavored.beer
 .pop800.com
@@ -3806,6 +3815,7 @@
 .bd888.qizuang.com
 .qjxys.cn
 .a6-remad.qm989.com
+.t-remad.qm989.com
 .logger.qmai.cn
 .qooic.com
 .log.qookkagames.com
@@ -3956,6 +3966,7 @@
 .ssp.qq.com
 .stat.3g.music.qq.com
 .stat.gamedl.qq.com
+.stat.music.qq.com
 .statistic.qzone.qq.com
 .stdl.qq.com
 .tbsone.imtt.qq.com
@@ -4102,6 +4113,7 @@
 .rcqmvmq.cn
 .ads.rctiplus.com
 .reachmax.cn
+.iot-cn-logser.realme.com
 .sentry.realme.net
 .bdapi-ads.realmemobile.com
 .bdapi-in-ads.realmemobile.com
@@ -4234,6 +4246,7 @@
 .ad.shobo.cn
 .shopfreestylephoto.com
 .1.shopit.cn
+.sentry.shoplazza.com
 .shopmaxusersatzteile.shop
 .shoprseasafetyoutlet.shop
 .shopskydance.shop
@@ -4350,6 +4363,7 @@
 .sms.info.smart.com
 .smucdn.com
 .smykmarketspl.shop
+.analytics-api-01.smzdm.com
 .errortracking.snapp.site
 .ad.snappea.com
 .sensors.snappea.com
@@ -4363,6 +4377,7 @@
 .ib.snssdk.com
 .ic.snssdk.com
 .is.snssdk.com
+.jsb.snssdk.com
 .log.snssdk.com
 .log-hl.snssdk.com
 .log-lf.snssdk.com
@@ -4932,7 +4947,6 @@
 .www.v61.com
 .v84tz11w7.com
 .va3yq7si6w.com
-.vaeth.cn
 .vamaker.com
 .collect.vans.com.cn
 .sea-log-rcv.vansound.com
@@ -5292,6 +5306,8 @@
 .badjs.weixinbridge.com
 .ads.welltalky.cn
 .code.wenbanzhu.com
+.ad.weplayer.cc
+.crosspromotion.weplayer.cc
 .count.west263.com
 .crashsight.wetest.net
 .perfsight.wetest.net
@@ -5299,6 +5315,7 @@
 .mtrace.wetvinfo.com
 .wfvs.cn
 .whaup-whin.shop
+.sentry-pub-ws.payerplus.ai.whecloud.com
 .sentry.oihlecz.com.whecloud.com
 .whytd.com
 .log.wifi.com
@@ -5347,7 +5364,6 @@
 .minfo.wps.cn
 .pcfg.wps.cn
 .push.wps.cn
-.spinfo.wps.cn
 .update.wps.cn
 .wpsweb-dc.wps.cn
 .abroad-ad.kingsoft-office-service.com.dns.wps.com
@@ -5721,6 +5737,7 @@
 .ydpushserver.youdao.com
 .bdcode.youke.com
 .ad.youku.com
+.ad-feedback.youku.com
 .ad.api.3g.youku.com
 .ad.mobile.youku.com
 .adashx.ut.youku.com
@@ -6001,7 +6018,6 @@
 .foreign-ime-ad.zyukj6l.com
 .foreign-ime-ad-reporter.zyukj6l.com
 .zyxyfy.com
-.zzisnvb.cn
 .zzrcz.com
 .cfgc.zztfly.com
 .log-auth.zztfly.com
