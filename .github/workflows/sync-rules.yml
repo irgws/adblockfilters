@@ -27,8 +27,6 @@ jobs:
 
           mkdir -p "$OUT"
 
-          # === 第 1 步：通过 API 获取 asset URL 列表（仅 1 次 API 调用）===
-          echo ">>> 获取 release 资产列表..."
           ASSET_URLS=$(curl -sf \
             -H "Authorization: Bearer $GITHUB_TOKEN" \
             -H "Accept: application/vnd.github+json" \
@@ -39,33 +37,31 @@ jobs:
           echo ">>> 共找到 $COUNT 个资产"
 
           if [ "$COUNT" -eq 0 ]; then
-            echo "::error::未找到任何资产，请检查 tag '$TAG' 是否存在"
+            echo "::error::未找到任何资产"
             exit 1
           fi
 
-          # === 第 2 步：逐个下载（走 CDN，不受 API 限流）===
           while IFS= read -r url; do
             fname=$(basename "$url")
             echo ">>> 下载: $fname"
             curl -sfL -o "${OUT}/${fname}" "$url"
           done <<< "$ASSET_URLS"
 
-          # === 第 3 步：验证文件数量 ===
           TOTAL=$(find "$OUT" -type f | wc -l)
           echo ">>> $OUT/ 目录共 $TOTAL 个文件"
 
           if [ "$TOTAL" -ne "$COUNT" ]; then
-            echo "::error::预期 $COUNT 个文件，实际只有 $TOTAL 个"
+            echo "::error::预期 $COUNT 个文件，实际 $TOTAL 个"
             exit 1
           fi
 
           echo ">>> 全部下载完成"
-          ls -lh "$OUT/"
 
-      - name: Check for changes
+      - name: Stage and check for changes
         id: changes
         run: |
-          if git diff --quiet && git diff --staged --quiet; then
+          git add -A
+          if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
@@ -76,6 +72,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add rules/
           git commit -m "chore: sync rules from 217heidai/adblockfilters ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
           git push   
