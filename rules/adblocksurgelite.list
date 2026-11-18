@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/11/18 01:30:09
-#!support=6006
+#!date=2026/11/18 14:48:47
+#!support=6009
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
@@ -5303,6 +5303,9 @@
 .badjs.weixinbridge.com
 .ads.welltalky.cn
 .code.wenbanzhu.com
+.ad.weplayer.cc
+.bugly.weplayer.cc
+.crosspromotion.weplayer.cc
 .count.west263.com
 .crashsight.wetest.net
 .perfsight.wetest.net
