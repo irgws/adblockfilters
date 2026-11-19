@@ -3,9 +3,9 @@
 # Description: 适用于 MosDNS 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmosdnslite.txt
-# Version: 20261118144847
-# Last modified: 2026/11/18 14:48:47
-# Blocked domains: 6009
+# Version: 20261119010406
+# Last modified: 2026/11/19 01:04:06
+# Blocked domains: 6017
 #
 kwflvcdn.000dn.com
 img.0279.net
@@ -501,6 +501,7 @@ statscollector-2-europe.agora.io
 statscollector-2-oversea.agora.io
 webcollector-rtm.agora.io
 log-collector-fr3.agoralab.co
+rest-argus-ad.agoralab.co
 ai-kit.cn
 brc.aigrammar.net
 brc2.aigrammar.net
@@ -611,6 +612,7 @@ commondata.oss-cn-hangzhou.aliyuncs.com
 dreemdmbabys.oss-cn-guangzhou.aliyuncs.com
 first-hufu.oss-cn-shanghai.aliyuncs.com
 free-cdn.oss-cn-shanghai.aliyuncs.com
+fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 httpdns-api.aliyuncs.com
 httpdns-sc.aliyuncs.com
 imagefiles-backup.oss-ap-southeast-7.aliyuncs.com
@@ -649,7 +651,6 @@ h-adashx.ut.amap.com
 logs.amap.com
 optimus-ads.amap.com
 optimus-ads-ykx.amap.com
-analytics.amarea.cn
 log.amemv.com
 log0-misc-alinc2.amemv.com
 log0-misc-hl.amemv.com
@@ -916,7 +917,6 @@ baifendian.com
 ad.baihemob.com
 pic.baihuawen.cn
 baihuwang.com
-sentry.baijia.com
 baixing.com
 bd-s.baixing.net
 script-bd.baixing.net
@@ -928,6 +928,7 @@ n.baminw.com.cn
 q.baminw.com.cn
 log.banjixiaoguanjia.com
 sentry.banjixiaoguanjia.com
+banmamedia.com
 midinfo.baofeng.com
 ploy.baofeng.net
 a.baomihua.com
@@ -1645,6 +1646,7 @@ download-sougou.com.cn
 bigdata.downza.com
 dpjzzgw.cn
 drdwy.com
+sentry.dreambig.work
 drivethelife.com
 dsbjdeh.cn
 www.dsp.com
@@ -1671,8 +1673,6 @@ other.v.duowan.com
 playstats.v.duowan.com
 stats.v.duowan.com
 vupload.duowan.com
-sentry.duozhuayu.net
-adsmis.duxiaoman.com
 analytics-api.dvdfab.cn
 servo-report.dvdfab.cn
 dvtednm.cn
@@ -1755,6 +1755,7 @@ enriquetomasshop.shop
 js.entm.top
 eoyqzzk.cn
 epaes.com.cn
+eqlidke.cn
 eraaoec.cn
 m.ercos.cn
 ethan.wang
@@ -2073,6 +2074,7 @@ gridsum.com
 gridsumdissector.com
 countly.growatt.com
 growingio.com
+sentry.grtcloud.net
 event-log-api-data-platform-data-lake-prod.gryphline.com
 eventlog.gryphline.com
 native-log-collect.gryphline.com
@@ -2235,6 +2237,7 @@ uapi.ads.heytapmobi.com
 ums-telemetry-cn.heytapmobi.com
 ums-telemetry-eu-par.heytapmobi.com
 ums-telemetry-india.heytapmobi.com
+ums-telemetry-india-hea-cadab.in-s01.cngw.heytapmobi.com
 ums-telemetry-sgp.heytapmobi.com
 userprofile.push.heytapmobi.com
 virusinfo-cloudscan-cn.heytapmobi.com
@@ -2479,6 +2482,7 @@ report.iciba.com
 report2.iciba.com
 ads.icloseli.cn
 id6.me
+idd1.com
 idubwz.cn
 rc.ie13.com
 myeca.ieasyclick.net
@@ -2510,7 +2514,6 @@ piccdn.igetget.com
 seeder.igetget.com
 igexin.com
 ihclam.cn
-appadapi.ihuman.com
 umami.ihuyi.com
 iimedia.cn
 ijinshan.com
@@ -3282,6 +3285,7 @@ ys-log-upload.mihoyo.com
 zzz-log-upload.mihoyo.com
 trk.miltonroy.com.cn
 playable-stats.mindworks-creative.com
+ad.mingruidata.com
 mintegral.com
 insight.mintel.com
 wm.mipcdn.com
@@ -3555,7 +3559,6 @@ apps5.oingo.com
 oj95rctd5.com
 ojg8sflgl.com
 ojmv.cn
-analytics.okorder.com
 oldulgk.cn
 oliviachic.com
 oneapm.com
@@ -3903,6 +3906,7 @@ news.mpush.qq.com
 oimsgad.qq.com
 omgid.qq.com
 omgmta1.qq.com
+openapi.guanjia.qq.com
 oss.weread.qq.com
 oth.str.mdt.qq.com
 p.store.qq.com
@@ -4238,6 +4242,7 @@ sentry.shoplazza.com
 shopmaxusersatzteile.shop
 shoprseasafetyoutlet.shop
 shopskydance.shop
+shoujiawang.cn
 ads-shopping.shouqianba.com
 shrobotics.cn
 shuiguo.com
@@ -4638,6 +4643,7 @@ tongji.techweb.com.cn
 tecunonline.com
 teddymobile.cn
 teeshoppen.shop
+lpbhnv.telemundolasvegas.com
 data.tempersyi.com
 inland-sdklog.trtc.tencent-cloud.com
 apd-pcdnvodstat.teg.tencent-cloud.net
@@ -4815,6 +4821,7 @@ livetech.shopee.vn.txlivecdn.com
 txscn.cn
 m.txtxr.com
 ty.cn
+tzcfyre.cn
 u7u9.com
 u88.cn
 log.ubianet.com
@@ -4911,6 +4918,7 @@ stats.us-light-edge.com
 uschesssalesstore.shop
 ushaqi.com
 gyqpyr.utsource.net
+utywsi.cn
 dlog-config.uu.cc
 jdlog.uu.cc
 ms-report.uu.cc
@@ -5356,6 +5364,7 @@ ios-informationplatform.wps.cn
 minfo.wps.cn
 pcfg.wps.cn
 push.wps.cn
+spinfo.wps.cn
 update.wps.cn
 wpsweb-dc.wps.cn
 abroad-ad.kingsoft-office-service.com.dns.wps.com
@@ -5411,7 +5420,6 @@ pics.xgo-img.com.cn
 imp.xgo.com.cn
 stat.xgo.com.cn
 ad.xhey.top
-ad-server.xhgamesdk.com
 xhkvff.cn
 ads-i1.xhscdn.com
 ads-i10.xhscdn.com
@@ -5610,7 +5618,6 @@ xulizui6.com
 ad.xunkids.com
 adsp.xunlei.com
 advertpay-vip-ssl.xunlei.com
-advertpay.vip.xunlei.com
 analytics-union.xunlei.com
 dm.xiazaibao.xunlei.com
 kkpgv2.xunlei.com
@@ -5724,6 +5731,7 @@ dsp-impr2.youdao.com
 fanyiegg.youdao.com
 gorgon.youdao.com
 log-yex.youdao.com
+log.yex.youdao.com
 sdk-log.youdao.com
 sdk-log-inter.youdao.com
 union.youdao.com
