@@ -3,9 +3,9 @@
 # Description: 适用于 MosDNS 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmosdnslite.txt
-# Version: 20261119010406
-# Last modified: 2026/11/19 01:04:06
-# Blocked domains: 6017
+# Version: 20261119145032
+# Last modified: 2026/11/19 14:50:32
+# Blocked domains: 5993
 #
 kwflvcdn.000dn.com
 img.0279.net
@@ -1019,7 +1019,6 @@ bjhuaya.cn
 bjmantis.net
 bjvvqu.cn
 file.blackint3.com
-blacktridents.shop
 adimage.blm.net
 blooziewear.shop
 gg.blueidea.com
@@ -1505,7 +1504,6 @@ hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn
 metrics1-data-hicloud-com.gere.dbankedge.cn
 metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
 adx-dre-op-hicloud-com-dre.appacc.dbankedge.net
-dbco.cn
 engine.dcad01.com
 xcx.dcad01.com
 ddapp.cn
@@ -1716,7 +1714,6 @@ eazypark.asia
 eblnzoq.cn
 jb.ecar168.cn
 log9-normal-c-useast1a.tiktokv.com.ecdnx.com
-ecoworthytech.shop
 edgeone.app
 dhlpolska.edgeone.cool
 faktura-nzbdcddw.edgeone.cool
@@ -2288,10 +2285,6 @@ remoteconfig-uat-drcn.platform.hihonorcloud.com
 tracking-data-drru.platform.hihonorcloud.com
 tracking-data.platform.hihonorcloud.com
 hiido.com
-hilocore.shop
-hilolane.shop
-hilomove.shop
-hilovibe.shop
 analytics.shop.hisense.com
 ad-cmp.hismarttv.com
 ad-download.hismarttv.com
@@ -2340,14 +2333,12 @@ hjpqt.cn
 hkkeafj.cn
 metrics.hktdc.com
 live-api.hktvmall.com
-hlsprt.shop
 hlstlyy.com
 hly.com
 ad.new.oe.hmgreat.com
 hnltcw.com
 online.hnoexpo.com
 hnol.net
-hochzeitsdekorationen.shop
 metrics.hollisterco.cn
 smetrics.hollisterco.cn
 log.homestyler.com
@@ -3076,7 +3067,6 @@ logitechs.pl
 logoshejishi.com
 lomark.cn
 looyu.com
-lovemoglichinderlade.shop
 game.loveota.com
 sdk.loveota.net
 lpmzt.cn
@@ -3409,7 +3399,6 @@ adcs.myappsget.com
 adcs-ap.myappsget.com
 adcs-ue.myappsget.com
 mycleanmymac.com
-mygabor.shop
 ceshi127722.obs.cn-north-4.myhuaweicloud.com
 hmdev.obs.cn-east-2.myhuaweicloud.com
 nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com
@@ -3451,7 +3440,6 @@ yfghrey-1433552157.cos.ap-hongkong.myqcloud.com
 datarangers-event.myrightone.com
 analytics.myshoptago.com
 mytrumerholz.shop
-myvitaminversand.shop
 ggs.myzaker.com
 aries.mzres.com
 mzwzo.cn
@@ -3560,7 +3548,6 @@ oj95rctd5.com
 ojg8sflgl.com
 ojmv.cn
 oldulgk.cn
-oliviachic.com
 oneapm.com
 onelnk.com
 click.oneplus.cn
@@ -3625,7 +3612,6 @@ ads-monitoring.papegames.com
 analytics.partnerboost.com
 app.partnerboost.com
 bt1.patexplorer.com
-pative.shop
 pbaiyho.cn
 m.pc6.com
 ipad.pc899.cn
@@ -3696,7 +3682,6 @@ poqwua.cn
 fp-it-acc.portal101.cn
 poseidonbikeworld.shop
 webtrack.pospal.cn
-potflourri.shop
 log.cs.pp.cn
 patriot.cs.pp.cn
 server.m.pp.cn
@@ -4471,7 +4456,6 @@ star8.net
 staticfile.net
 staticfile.org
 trackmarketing.staubli.cn
-staud.co.at
 ste000u5mk.com
 steamproxy.net
 stenchmaxx.study
@@ -4642,7 +4626,6 @@ log.tec73.com
 tongji.techweb.com.cn
 tecunonline.com
 teddymobile.cn
-teeshoppen.shop
 lpbhnv.telemundolasvegas.com
 data.tempersyi.com
 inland-sdklog.trtc.tencent-cloud.com
@@ -4691,7 +4674,6 @@ akamai-apigateway-sentry.tesla.cn
 testin.cn
 tgfyq.cn
 th7.cn
-thehochzeitsdekorationen.shop
 advert.api.thejoyrun.com
 adpai.thepaper.cn
 somni.mapac.thermofisher.cn
@@ -4784,7 +4766,6 @@ tradplusad.com
 trafficjam.cn
 transplantation.org.cn
 analysis.tratao.com
-trinaturkwear.com
 sentry-lb.lenovo.com.cn.trpcdn.net
 ta.trs.cn
 ad.truerun.com
@@ -4971,8 +4952,6 @@ vihppjk.cn
 n-st.vip.com
 in.vipliangmei.com
 smetrics.visitsingapore.com.cn
-vitaminversandonline.shop
-vitsend.com
 adlog.vivo.com
 ads-api.vivo.com
 bhwkju.vivo.com
@@ -5304,9 +5283,6 @@ weidianyuedu.com
 badjs.weixinbridge.com
 ads.welltalky.cn
 code.wenbanzhu.com
-ad.weplayer.cc
-bugly.weplayer.cc
-crosspromotion.weplayer.cc
 count.west263.com
 crashsight.wetest.net
 perfsight.wetest.net
