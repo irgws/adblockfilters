@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20261119145032
-# Last modified: 2026/11/19 14:50:32
-# Blocked domains: 5993
+# Version: 20261120105314
+# Last modified: 2026/11/20 10:53:14
+# Blocked domains: 6001
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -651,6 +651,7 @@ h-adashx.ut.amap.com @ads
 logs.amap.com @ads
 optimus-ads.amap.com @ads
 optimus-ads-ykx.amap.com @ads
+analytics.amarea.cn @ads
 log.amemv.com @ads
 log0-misc-alinc2.amemv.com @ads
 log0-misc-hl.amemv.com @ads
@@ -686,6 +687,7 @@ apdfmhp.cn @ads
 analytics.api.myqnapcloud.cn @ads
 qcenter-metrics-device.api.myqnapcloud.cn @ads
 adx.apicgate.com @ads
+sg-fp.apitd.net @ads
 us-behavior.apitd.net @ads
 apkevery.com @ads
 r.apkpure.net @ads
@@ -1166,7 +1168,6 @@ ads.cecb2b.com @ads
 log.cece.com @ads
 tvuser-ch.cedock.com @ads
 www.cellphonelocation.net @ads
-stats.centbrowser.cn @ads
 cgigc.com.cn @ads
 chabeihu.hl.cn @ads
 ads.adagent.chacha.com @ads
@@ -1218,6 +1219,7 @@ api-ad.chuangyuejoy.com @ads
 y66xvgo5i.chuimg.com @ads
 bugly.chujingapp.com @ads
 hpplay.cdn.cibn.cc @ads
+adx.op.cp18.ott.cibntv.net @ads
 pl.cp31.ott.cibntv.net @ads
 valf.atm.cp31.ott.cibntv.net @ads
 vali-g1.cp31.ott.cibntv.net @ads
@@ -1709,7 +1711,6 @@ same.eastmoney.com @ads
 easyliao.com @ads
 easyrecoverychina.com @ads
 easytomessage.com @ads
-eatuo.com @ads
 eazypark.asia @ads
 eblnzoq.cn @ads
 jb.ecar168.cn @ads
@@ -1746,6 +1747,7 @@ ename.com.cn @ads
 count.enet.com.cn @ads
 brc.englishdict.cc @ads
 brc.englishtimes.cc @ads
+iqiyim.adtrack.enlightent.cn @ads
 eap.enorth.com.cn @ads
 eap.big5.enorth.com.cn @ads
 enriquetomasshop.shop @ads
@@ -2118,6 +2120,7 @@ gzfzcj.cn @ads
 gzpinda.com @ads
 gzqvd.cn @ads
 gzzkjdam.cn @ads
+h3806.cn @ads
 h45pmx1.cn @ads
 bm.h576.com @ads
 h57vpulpu.com @ads
@@ -2505,6 +2508,7 @@ piccdn.igetget.com @ads
 seeder.igetget.com @ads
 igexin.com @ads
 ihclam.cn @ads
+appadapi.ihuman.com @ads
 umami.ihuyi.com @ads
 iimedia.cn @ads
 ijinshan.com @ads
@@ -2678,6 +2682,7 @@ jh-lyfz.vercel.app @ads
 jhzfwl.cn @ads
 wj.jiancai365.cn @ads
 acc.jiangsujiaxue.com @ads
+1.jiangzheba.com @ads
 ahm.jiankang123.net @ads
 jiankongbao.com @ads
 tr.jianshu.com @ads
@@ -3547,6 +3552,7 @@ apps5.oingo.com @ads
 oj95rctd5.com @ads
 ojg8sflgl.com @ads
 ojmv.cn @ads
+analytics.okorder.com @ads
 oldulgk.cn @ads
 oneapm.com @ads
 onelnk.com @ads
@@ -3625,6 +3631,7 @@ pdfxd.com @ads
 pdhhmf.cn @ads
 a8.jp.peacebird.com @ads
 eloqua.pearsonvue.com.cn @ads
+adv.peasun.net @ads
 peiyou.com @ads
 pelletshoponline.com @ads
 pengauto.cn @ads
@@ -4352,6 +4359,7 @@ bds.snssdk.com @ads
 extlog.snssdk.com @ads
 gecko.snssdk.com @ads
 ib.snssdk.com @ads
+ic.snssdk.com @ads
 is.snssdk.com @ads
 jsb.snssdk.com @ads
 log.snssdk.com @ads
@@ -5283,6 +5291,8 @@ weidianyuedu.com @ads
 badjs.weixinbridge.com @ads
 ads.welltalky.cn @ads
 code.wenbanzhu.com @ads
+ad.weplayer.cc @ads
+crosspromotion.weplayer.cc @ads
 count.west263.com @ads
 crashsight.wetest.net @ads
 perfsight.wetest.net @ads
@@ -5353,7 +5363,6 @@ sentry.wps.com @ads
 mo.res.wpscdn.cn @ads
 abroadad.cache.wpscdn.com @ads
 wpwpquse.cn @ads
-log.wqxsw.com @ads
 wrating.com @ads
 ad.12306.cn.wscdns.com @ads
 analytics.95516.com.wscdns.com @ads
@@ -5594,6 +5603,7 @@ xulizui6.com @ads
 ad.xunkids.com @ads
 adsp.xunlei.com @ads
 advertpay-vip-ssl.xunlei.com @ads
+advertpay.vip.xunlei.com @ads
 analytics-union.xunlei.com @ads
 dm.xiazaibao.xunlei.com @ads
 kkpgv2.xunlei.com @ads
@@ -5770,7 +5780,6 @@ app.storage.yunvm.com @ads
 httpdns.yunxindns.com @ads
 statistic-overseas.yunxinfw.com @ads
 yunxish.com @ads
-www.yuyue008.cn @ads
 yvdb.cn @ads
 yw800.com.cn @ads
 ywkkmze.cn @ads
@@ -5846,7 +5855,6 @@ smad.ms.zhangyue.net @ads
 zhanzhang.net @ads
 www.zhaohainan.cn @ads
 mg09.zhaopin.com @ads
-sentry.zhaopin.com @ads
 slotabrosdev.zharev.com @ads
 slotabrosuat.zharev.com @ads
 cdnlog.zhenai.com @ads

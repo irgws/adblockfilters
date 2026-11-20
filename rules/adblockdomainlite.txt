@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20261119145032
-! Last modified: 2026/11/19 14:50:32
-! Blocked domains: 5993
+! Version: 20261120105314
+! Last modified: 2026/11/20 10:53:14
+! Blocked domains: 6001
 !
 kwflvcdn.000dn.com
 img.0279.net
@@ -651,6 +651,7 @@ h-adashx.ut.amap.com
 logs.amap.com
 optimus-ads.amap.com
 optimus-ads-ykx.amap.com
+analytics.amarea.cn
 log.amemv.com
 log0-misc-alinc2.amemv.com
 log0-misc-hl.amemv.com
@@ -686,6 +687,7 @@ apdfmhp.cn
 analytics.api.myqnapcloud.cn
 qcenter-metrics-device.api.myqnapcloud.cn
 adx.apicgate.com
+sg-fp.apitd.net
 us-behavior.apitd.net
 apkevery.com
 r.apkpure.net
@@ -1166,7 +1168,6 @@ ads.cecb2b.com
 log.cece.com
 tvuser-ch.cedock.com
 www.cellphonelocation.net
-stats.centbrowser.cn
 cgigc.com.cn
 chabeihu.hl.cn
 ads.adagent.chacha.com
@@ -1218,6 +1219,7 @@ api-ad.chuangyuejoy.com
 y66xvgo5i.chuimg.com
 bugly.chujingapp.com
 hpplay.cdn.cibn.cc
+adx.op.cp18.ott.cibntv.net
 pl.cp31.ott.cibntv.net
 valf.atm.cp31.ott.cibntv.net
 vali-g1.cp31.ott.cibntv.net
@@ -1709,7 +1711,6 @@ same.eastmoney.com
 easyliao.com
 easyrecoverychina.com
 easytomessage.com
-eatuo.com
 eazypark.asia
 eblnzoq.cn
 jb.ecar168.cn
@@ -1746,6 +1747,7 @@ ename.com.cn
 count.enet.com.cn
 brc.englishdict.cc
 brc.englishtimes.cc
+iqiyim.adtrack.enlightent.cn
 eap.enorth.com.cn
 eap.big5.enorth.com.cn
 enriquetomasshop.shop
@@ -2118,6 +2120,7 @@ gzfzcj.cn
 gzpinda.com
 gzqvd.cn
 gzzkjdam.cn
+h3806.cn
 h45pmx1.cn
 bm.h576.com
 h57vpulpu.com
@@ -2505,6 +2508,7 @@ piccdn.igetget.com
 seeder.igetget.com
 igexin.com
 ihclam.cn
+appadapi.ihuman.com
 umami.ihuyi.com
 iimedia.cn
 ijinshan.com
@@ -2678,6 +2682,7 @@ jh-lyfz.vercel.app
 jhzfwl.cn
 wj.jiancai365.cn
 acc.jiangsujiaxue.com
+1.jiangzheba.com
 ahm.jiankang123.net
 jiankongbao.com
 tr.jianshu.com
@@ -3547,6 +3552,7 @@ apps5.oingo.com
 oj95rctd5.com
 ojg8sflgl.com
 ojmv.cn
+analytics.okorder.com
 oldulgk.cn
 oneapm.com
 onelnk.com
@@ -3625,6 +3631,7 @@ pdfxd.com
 pdhhmf.cn
 a8.jp.peacebird.com
 eloqua.pearsonvue.com.cn
+adv.peasun.net
 peiyou.com
 pelletshoponline.com
 pengauto.cn
@@ -4352,6 +4359,7 @@ bds.snssdk.com
 extlog.snssdk.com
 gecko.snssdk.com
 ib.snssdk.com
+ic.snssdk.com
 is.snssdk.com
 jsb.snssdk.com
 log.snssdk.com
@@ -5283,6 +5291,8 @@ weidianyuedu.com
 badjs.weixinbridge.com
 ads.welltalky.cn
 code.wenbanzhu.com
+ad.weplayer.cc
+crosspromotion.weplayer.cc
 count.west263.com
 crashsight.wetest.net
 perfsight.wetest.net
@@ -5353,7 +5363,6 @@ sentry.wps.com
 mo.res.wpscdn.cn
 abroadad.cache.wpscdn.com
 wpwpquse.cn
-log.wqxsw.com
 wrating.com
 ad.12306.cn.wscdns.com
 analytics.95516.com.wscdns.com
@@ -5594,6 +5603,7 @@ xulizui6.com
 ad.xunkids.com
 adsp.xunlei.com
 advertpay-vip-ssl.xunlei.com
+advertpay.vip.xunlei.com
 analytics-union.xunlei.com
 dm.xiazaibao.xunlei.com
 kkpgv2.xunlei.com
@@ -5770,7 +5780,6 @@ app.storage.yunvm.com
 httpdns.yunxindns.com
 statistic-overseas.yunxinfw.com
 yunxish.com
-www.yuyue008.cn
 yvdb.cn
 yw800.com.cn
 ywkkmze.cn
@@ -5846,7 +5855,6 @@ smad.ms.zhangyue.net
 zhanzhang.net
 www.zhaohainan.cn
 mg09.zhaopin.com
-sentry.zhaopin.com
 slotabrosdev.zharev.com
 slotabrosuat.zharev.com
 cdnlog.zhenai.com
