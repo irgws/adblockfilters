@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/11/21 14:31:27
-#!support=6027
+#!date=2026/11/22 00:00:00
+#!support=6029
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
@@ -372,6 +372,7 @@
 .81bkkx81zd.com
 .866.com
 .88362zubo95838.com
+.888wg.cn
 .88la.la
 .8k69vb6421.com
 .8le8le.com
@@ -484,6 +485,7 @@
 .adzp.cn
 .aegt.com.cn
 .af1tsjdta.com
+.afce.cn
 .analytics.afirstsoft.cn
 .app.aflink.com
 .data-reporting.agora.io
@@ -511,7 +513,6 @@
 .statscollector-2-oversea.agora.io
 .webcollector-rtm.agora.io
 .log-collector-fr3.agoralab.co
-.rest-argus-ad.agoralab.co
 .ahui123.cn
 .ai-kit.cn
 .brc.aigrammar.net
@@ -747,6 +748,7 @@
 .ftwo-receiver.autohome.com.cn
 .idm.api.autohome.com.cn
 .pcd.autohome.com.cn
+.pcmx.autohome.com.cn
 .push.app.autohome.com.cn
 .pvx.autohome.com.cn
 .rd.autohome.com.cn
@@ -986,7 +988,6 @@
 .ad1.beareyes.com.cn
 .smetrics.beatsbydre.com
 .smetrics.beatsbydre.com.cn
-.becksondergaardstore.shop
 .beizi.biz
 .smetrics.benefitcosmetics.com.cn
 .bengbeng.com
@@ -1034,7 +1035,6 @@
 .bjvvqu.cn
 .file.blackint3.com
 .adimage.blm.net
-.blooziewear.shop
 .gg.blueidea.com
 .fpbbdx2.bmcx.com
 .bncqucpia.com
@@ -1057,7 +1057,6 @@
 .xww.bucea.edu.cn
 .burnercombustion.org.cn
 .buyalwansolar.shop
-.buynaturium.shop
 .bvmlt.top
 .ad.bwton.com
 .adimage.bwton.com
@@ -1104,7 +1103,6 @@
 .telemetry.canva.cn
 .caomeixz7.xyz
 .baidu1.cardbaobao.com
-.cart.net.cn
 .cartx.cloud
 .casee.cn
 .posthog.casinoplus.top
@@ -1261,6 +1259,7 @@
 .cmbkgmx.cn
 .lcf.cmplay.cmcm.com
 .cmgadx.com
+.cmna.cn
 .config.cmpassport.com
 .config1.cmpassport.com
 .config2.cmpassport.com
@@ -1355,7 +1354,6 @@
 .crasheye.cn
 .crashlyticsreports-pa.googleapis.com
 .crf999.cn
-.crgshop.shop
 .crobotb.com
 .metrics-cloud-gaming.crtrcloud.com
 .crustbikesco.shop
@@ -1660,7 +1658,6 @@
 .bigdata.downza.com
 .dpjzzgw.cn
 .drdwy.com
-.sentry.dreambig.work
 .drivethelife.com
 .dsbjdeh.cn
 .www.dsp.com
@@ -1709,6 +1706,7 @@
 .dl.dzqzd.com
 .api.e-toys.cn
 .e810.cn
+.eagb.cn
 .track.easeus.com
 .easou.com
 .mini.eastday.com
@@ -1777,6 +1775,7 @@
 .etwun.com
 .evoqueebikeshop.shop
 .duologinsupersdk.ewan.cn
+.ewbs.cn
 .a.exam58.com
 .drovs.excelliance.cn
 .excsyrv.cn
@@ -1866,7 +1865,6 @@
 .cfgc.flysleep.cn
 .log-auth.flysleep.cn
 .upc.flysleep.cn
-.flyye.cn
 .adv-sv-show.focus.cn
 .adv-sv-stat.focus.cn
 .bdu.focus.cn
@@ -1974,7 +1972,6 @@
 .biz.gexing.com
 .ggmm777.com
 .ghsnhjk.cn
-.gi.cn
 .beacon-ad.ztgame.com.giantcdn.com
 .ad.partner.gifshow.com
 .gdfp.gifshow.com
@@ -2131,6 +2128,7 @@
 .gxdowell.cn
 .gxgbvmg.cn
 .gxhzv.cn
+.gxtvu.com.cn
 .gz-data.com
 .gzcl999.com
 .gzfzcj.cn
@@ -2433,6 +2431,7 @@
 .hwa.his.huawei.com
 .sg.nebula-collector.huawei.com
 .httpdns.huaweicloud.com
+.repo.huaweicloud.com
 .uba.huaweicloud.com
 .inner-hw.huazirc.com
 .hubcloud.com.cn
@@ -2805,6 +2804,7 @@
 .ipv4.kkmh.com
 .logsdk.klingai.com
 .affiliate.klook.com
+.klvt.cn
 .kmpxq.cn
 .kxlogo.knet.cn
 .knie8wmsk.com
@@ -3005,7 +3005,6 @@
 .ssai-ads.api.leiniao.com
 .ssai2-ads.api.leiniao.com
 .update.lejiao.tv
-.src.leju.com
 .ad.lelongpp.com
 .analyze.lemurbrowser.com
 .app.update.lenovo.com
@@ -3316,6 +3315,7 @@
 .api.calendar.intl.miui.com
 .api.collect.data.intl.miui.com
 .api.competition.intl.miui.com
+.api.game.intl.miui.com
 .api.launcher.intl.miui.com
 .api.mintbrs.intl.miui.com
 .api.newsfeed.intl.miui.com
@@ -3441,6 +3441,7 @@
 .adstore-index-1252524079.file.myqcloud.com
 .app-artifacts-1305923417.cos.ap-guangzhou.myqcloud.com
 .bj5y6-0f-9h4-9fgg4-1324992141.cos.ap-bangkok.myqcloud.com
+.crashsight-logs-1258344700.cos.ap-shanghai.myqcloud.com
 .crashsight-logs-1319323203.cos.accelerate.myqcloud.com
 .dianying-1304791696.cos.ap-shanghai.myqcloud.com
 .f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com
@@ -3528,7 +3529,6 @@
 .nrjzkj.cn
 .nryqr.cn
 .www6.ns1.name
-.stat1-mlycdn.bmyy520.com.cdn.ns1011.com
 .ntfsformac.cc
 .ntfsformac.cn
 .log.ntyy888.com
@@ -3549,6 +3549,7 @@
 .oaclrst.cn
 .oadz.com
 .gtm.oasisfeng.com
+.obgk.cn
 .obs.com.cn
 .obscj.com
 .obsproject.com.cn
@@ -3562,7 +3563,6 @@
 .ockmarket.shop
 .offerstrack.net
 .officialdtspharmacy.shop
-.officialriskmadeinwarsaw.shop
 .offie-wps.com.cn
 .ad.ofweek.com
 .a.oh100.com
@@ -4237,6 +4237,7 @@
 .api.shanghailingye.cn
 .bid.shanghailingye.cn
 .js.shangxueba.com
+.shanhulan.cn
 .shanhutech.cn
 .sc.shayugg.com
 .link.shengcekeji.com
@@ -4709,7 +4710,6 @@
 .th7.cn
 .advert.api.thejoyrun.com
 .adpai.thepaper.cn
-.theraloawam.net
 .somni.mapac.thermofisher.cn
 .stats.thermofisher.com.cn
 .event.thermoscientific.cn
@@ -4809,6 +4809,7 @@
 .trustutn.org
 .ts166.net
 .ttdbh.com
+.ttimoo.com
 .www.ttyyuuoo.com
 .tudou.com
 .go.tuev.cn
@@ -4825,6 +4826,7 @@
 .tuxi.com.cn
 .log.tv360.vn
 .tvabqt.cn
+.tvce.cn
 .tvdpebx.cn
 .md.tvzhe.com
 .twdjn.cn
@@ -5318,6 +5320,8 @@
 .badjs.weixinbridge.com
 .ads.welltalky.cn
 .code.wenbanzhu.com
+.ad.weplayer.cc
+.crosspromotion.weplayer.cc
 .count.west263.com
 .crashsight.wetest.net
 .perfsight.wetest.net
@@ -5747,7 +5751,6 @@
 .fanyiegg.youdao.com
 .gorgon.youdao.com
 .log-yex.youdao.com
-.log.yex.youdao.com
 .sdk-log.youdao.com
 .sdk-log-inter.youdao.com
 .union.youdao.com
@@ -6028,7 +6031,6 @@
 .zwlpdo.cn
 .tc.zxcvbnml.com
 .5mm.zxfw5.cn
-.zxzs365.cn
 .httpdns.zybang.com
 .syh.zybang.com
 .zygkzytb.cn
