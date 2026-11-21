@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20261120163633-cae2581
-# Last modified: 2026/11/20 16:36:33
-# Blocked domains: 6038
+# Version: 20261121005118-679b89c
+# Last modified: 2026/11/21 00:51:18
+# Blocked domains: 6027
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -414,7 +414,6 @@ abbyychina.com @ads
 metrics.abercrombie.cn @ads
 smetrics.abercrombie.cn @ads
 discover.absciex.com.cn @ads
-log.accessflux.com @ads
 apilog-web.acfun.cn @ads
 jscode.acg68.com @ads
 acgshenshicha.cn @ads
@@ -741,7 +740,6 @@ ftwo-feedback.autohome.com.cn @ads
 ftwo-receiver.autohome.com.cn @ads
 idm.api.autohome.com.cn @ads
 pcd.autohome.com.cn @ads
-pcmx.autohome.com.cn @ads
 push.app.autohome.com.cn @ads
 pvx.autohome.com.cn @ads
 rd.autohome.com.cn @ads
@@ -1652,7 +1650,6 @@ rtbapi.douyucdn.cn @ads
 stun.douyucdn.cn @ads
 stun1.douyucdn.cn @ads
 dotcounter.douyutv.com @ads
-download-sougou.com.cn @ads
 bigdata.downza.com @ads
 dpjzzgw.cn @ads
 drdwy.com @ads
@@ -2922,7 +2919,6 @@ img.adnyg.com.w.kunlungr.com @ads
 log.accessflux.com.w.kunlungr.com @ads
 log3-normal-c-alisg.tiktokv.com.w.kunlunsl.com @ads
 log3-normal-c-useast1a.tiktokv.com.w.kunlunsl.com @ads
-web-sentry.kurogame.com @ads
 web-sentry.kurogame.net @ads
 qcloud-sg-datareceiver.kurogame.xyz @ads
 adsrv.kurogames.com @ads
@@ -3157,7 +3153,6 @@ meiqia.com @ads
 corp.meitu.com @ads
 gg.meitu.com @ads
 message.meitu.com @ads
-sentry-26.meitu.com @ads
 tuiguang.meitu.com @ads
 xiuxiu.android.dl.meitu.com @ads
 adgame.waimai.meituan.com @ads
@@ -3421,7 +3416,6 @@ adcs.myappsget.com @ads
 adcs-ap.myappsget.com @ads
 adcs-ue.myappsget.com @ads
 mycleanmymac.com @ads
-icons.mydrivers.com @ads
 ceshi127722.obs.cn-north-4.myhuaweicloud.com @ads
 hmdev.obs.cn-east-2.myhuaweicloud.com @ads
 nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com @ads
@@ -3651,7 +3645,6 @@ pdhhmf.cn @ads
 a8.jp.peacebird.com @ads
 eloqua.pearsonvue.com.cn @ads
 ad.data.peasun.net @ads
-adv.peasun.net @ads
 peiyou.com @ads
 pelletshoponline.com @ads
 pengauto.cn @ads
@@ -4251,7 +4244,6 @@ statichf.shihuocdn.cn @ads
 shilian168.cn @ads
 shinedaily.cn @ads
 metrics-v1.shiyue.com @ads
-ad-pool.shiyuegame.com @ads
 ad.shobo.cn @ads
 shopfreestylephoto.com @ads
 1.shopit.cn @ads
@@ -5319,9 +5311,6 @@ weidianyuedu.com @ads
 badjs.weixinbridge.com @ads
 ads.welltalky.cn @ads
 code.wenbanzhu.com @ads
-ad.weplayer.cc @ads
-bugly.weplayer.cc @ads
-crosspromotion.weplayer.cc @ads
 count.west263.com @ads
 crashsight.wetest.net @ads
 perfsight.wetest.net @ads

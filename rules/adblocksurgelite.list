@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/11/20 16:36:33
-#!support=6038
+#!date=2026/11/21 00:51:18
+#!support=6027
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
@@ -421,7 +421,6 @@
 .metrics.abercrombie.cn
 .smetrics.abercrombie.cn
 .discover.absciex.com.cn
-.log.accessflux.com
 .apilog-web.acfun.cn
 .jscode.acg68.com
 .acgshenshicha.cn
@@ -748,7 +747,6 @@
 .ftwo-receiver.autohome.com.cn
 .idm.api.autohome.com.cn
 .pcd.autohome.com.cn
-.pcmx.autohome.com.cn
 .push.app.autohome.com.cn
 .pvx.autohome.com.cn
 .rd.autohome.com.cn
@@ -1659,7 +1657,6 @@
 .stun.douyucdn.cn
 .stun1.douyucdn.cn
 .dotcounter.douyutv.com
-.download-sougou.com.cn
 .bigdata.downza.com
 .dpjzzgw.cn
 .drdwy.com
@@ -2929,7 +2926,6 @@
 .log.accessflux.com.w.kunlungr.com
 .log3-normal-c-alisg.tiktokv.com.w.kunlunsl.com
 .log3-normal-c-useast1a.tiktokv.com.w.kunlunsl.com
-.web-sentry.kurogame.com
 .web-sentry.kurogame.net
 .qcloud-sg-datareceiver.kurogame.xyz
 .adsrv.kurogames.com
@@ -3164,7 +3160,6 @@
 .corp.meitu.com
 .gg.meitu.com
 .message.meitu.com
-.sentry-26.meitu.com
 .tuiguang.meitu.com
 .xiuxiu.android.dl.meitu.com
 .adgame.waimai.meituan.com
@@ -3428,7 +3423,6 @@
 .adcs-ap.myappsget.com
 .adcs-ue.myappsget.com
 .mycleanmymac.com
-.icons.mydrivers.com
 .ceshi127722.obs.cn-north-4.myhuaweicloud.com
 .hmdev.obs.cn-east-2.myhuaweicloud.com
 .nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com
@@ -3658,7 +3652,6 @@
 .a8.jp.peacebird.com
 .eloqua.pearsonvue.com.cn
 .ad.data.peasun.net
-.adv.peasun.net
 .peiyou.com
 .pelletshoponline.com
 .pengauto.cn
@@ -4258,7 +4251,6 @@
 .shilian168.cn
 .shinedaily.cn
 .metrics-v1.shiyue.com
-.ad-pool.shiyuegame.com
 .ad.shobo.cn
 .shopfreestylephoto.com
 .1.shopit.cn
@@ -5326,9 +5318,6 @@
 .badjs.weixinbridge.com
 .ads.welltalky.cn
 .code.wenbanzhu.com
-.ad.weplayer.cc
-.bugly.weplayer.cc
-.crosspromotion.weplayer.cc
 .count.west263.com
 .crashsight.wetest.net
 .perfsight.wetest.net

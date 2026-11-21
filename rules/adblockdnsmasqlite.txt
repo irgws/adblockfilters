@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20261120163633-cae2581
-# Last modified: 2026/11/20 16:36:33
-# Blocked domains: 6038
+# Version: 20261121005118-679b89c
+# Last modified: 2026/11/21 00:51:18
+# Blocked domains: 6027
 #
 local=/kwflvcdn.000dn.com/
 local=/img.0279.net/
@@ -414,7 +414,6 @@ local=/abbyychina.com/
 local=/metrics.abercrombie.cn/
 local=/smetrics.abercrombie.cn/
 local=/discover.absciex.com.cn/
-local=/log.accessflux.com/
 local=/apilog-web.acfun.cn/
 local=/jscode.acg68.com/
 local=/acgshenshicha.cn/
@@ -741,7 +740,6 @@ local=/ftwo-feedback.autohome.com.cn/
 local=/ftwo-receiver.autohome.com.cn/
 local=/idm.api.autohome.com.cn/
 local=/pcd.autohome.com.cn/
-local=/pcmx.autohome.com.cn/
 local=/push.app.autohome.com.cn/
 local=/pvx.autohome.com.cn/
 local=/rd.autohome.com.cn/
@@ -1652,7 +1650,6 @@ local=/rtbapi.douyucdn.cn/
 local=/stun.douyucdn.cn/
 local=/stun1.douyucdn.cn/
 local=/dotcounter.douyutv.com/
-local=/download-sougou.com.cn/
 local=/bigdata.downza.com/
 local=/dpjzzgw.cn/
 local=/drdwy.com/
@@ -2922,7 +2919,6 @@ local=/img.adnyg.com.w.kunlungr.com/
 local=/log.accessflux.com.w.kunlungr.com/
 local=/log3-normal-c-alisg.tiktokv.com.w.kunlunsl.com/
 local=/log3-normal-c-useast1a.tiktokv.com.w.kunlunsl.com/
-local=/web-sentry.kurogame.com/
 local=/web-sentry.kurogame.net/
 local=/qcloud-sg-datareceiver.kurogame.xyz/
 local=/adsrv.kurogames.com/
@@ -3157,7 +3153,6 @@ local=/meiqia.com/
 local=/corp.meitu.com/
 local=/gg.meitu.com/
 local=/message.meitu.com/
-local=/sentry-26.meitu.com/
 local=/tuiguang.meitu.com/
 local=/xiuxiu.android.dl.meitu.com/
 local=/adgame.waimai.meituan.com/
@@ -3421,7 +3416,6 @@ local=/adcs.myappsget.com/
 local=/adcs-ap.myappsget.com/
 local=/adcs-ue.myappsget.com/
 local=/mycleanmymac.com/
-local=/icons.mydrivers.com/
 local=/ceshi127722.obs.cn-north-4.myhuaweicloud.com/
 local=/hmdev.obs.cn-east-2.myhuaweicloud.com/
 local=/nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com/
@@ -3651,7 +3645,6 @@ local=/pdhhmf.cn/
 local=/a8.jp.peacebird.com/
 local=/eloqua.pearsonvue.com.cn/
 local=/ad.data.peasun.net/
-local=/adv.peasun.net/
 local=/peiyou.com/
 local=/pelletshoponline.com/
 local=/pengauto.cn/
@@ -4251,7 +4244,6 @@ local=/statichf.shihuocdn.cn/
 local=/shilian168.cn/
 local=/shinedaily.cn/
 local=/metrics-v1.shiyue.com/
-local=/ad-pool.shiyuegame.com/
 local=/ad.shobo.cn/
 local=/shopfreestylephoto.com/
 local=/1.shopit.cn/
@@ -5319,9 +5311,6 @@ local=/1.weiheshidai.com/
 local=/badjs.weixinbridge.com/
 local=/ads.welltalky.cn/
 local=/code.wenbanzhu.com/
-local=/ad.weplayer.cc/
-local=/bugly.weplayer.cc/
-local=/crosspromotion.weplayer.cc/
 local=/count.west263.com/
 local=/crashsight.wetest.net/
 local=/perfsight.wetest.net/

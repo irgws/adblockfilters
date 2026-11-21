@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/11/20 16:36:33
-#!support=6038
+#!date=2026/11/21 00:51:18
+#!support=6027
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -418,7 +418,6 @@ DOMAIN-SUFFIX,abbyychina.com
 DOMAIN-SUFFIX,metrics.abercrombie.cn
 DOMAIN-SUFFIX,smetrics.abercrombie.cn
 DOMAIN-SUFFIX,discover.absciex.com.cn
-DOMAIN-SUFFIX,log.accessflux.com
 DOMAIN-SUFFIX,apilog-web.acfun.cn
 DOMAIN-SUFFIX,jscode.acg68.com
 DOMAIN-SUFFIX,acgshenshicha.cn
@@ -745,7 +744,6 @@ DOMAIN-SUFFIX,ftwo-feedback.autohome.com.cn
 DOMAIN-SUFFIX,ftwo-receiver.autohome.com.cn
 DOMAIN-SUFFIX,idm.api.autohome.com.cn
 DOMAIN-SUFFIX,pcd.autohome.com.cn
-DOMAIN-SUFFIX,pcmx.autohome.com.cn
 DOMAIN-SUFFIX,push.app.autohome.com.cn
 DOMAIN-SUFFIX,pvx.autohome.com.cn
 DOMAIN-SUFFIX,rd.autohome.com.cn
@@ -1656,7 +1654,6 @@ DOMAIN-SUFFIX,rtbapi.douyucdn.cn
 DOMAIN-SUFFIX,stun.douyucdn.cn
 DOMAIN-SUFFIX,stun1.douyucdn.cn
 DOMAIN-SUFFIX,dotcounter.douyutv.com
-DOMAIN-SUFFIX,download-sougou.com.cn
 DOMAIN-SUFFIX,bigdata.downza.com
 DOMAIN-SUFFIX,dpjzzgw.cn
 DOMAIN-SUFFIX,drdwy.com
@@ -2926,7 +2923,6 @@ DOMAIN-SUFFIX,img.adnyg.com.w.kunlungr.com
 DOMAIN-SUFFIX,log.accessflux.com.w.kunlungr.com
 DOMAIN-SUFFIX,log3-normal-c-alisg.tiktokv.com.w.kunlunsl.com
 DOMAIN-SUFFIX,log3-normal-c-useast1a.tiktokv.com.w.kunlunsl.com
-DOMAIN-SUFFIX,web-sentry.kurogame.com
 DOMAIN-SUFFIX,web-sentry.kurogame.net
 DOMAIN-SUFFIX,qcloud-sg-datareceiver.kurogame.xyz
 DOMAIN-SUFFIX,adsrv.kurogames.com
@@ -3161,7 +3157,6 @@ DOMAIN-SUFFIX,meiqia.com
 DOMAIN-SUFFIX,corp.meitu.com
 DOMAIN-SUFFIX,gg.meitu.com
 DOMAIN-SUFFIX,message.meitu.com
-DOMAIN-SUFFIX,sentry-26.meitu.com
 DOMAIN-SUFFIX,tuiguang.meitu.com
 DOMAIN-SUFFIX,xiuxiu.android.dl.meitu.com
 DOMAIN-SUFFIX,adgame.waimai.meituan.com
@@ -3425,7 +3420,6 @@ DOMAIN-SUFFIX,adcs.myappsget.com
 DOMAIN-SUFFIX,adcs-ap.myappsget.com
 DOMAIN-SUFFIX,adcs-ue.myappsget.com
 DOMAIN-SUFFIX,mycleanmymac.com
-DOMAIN-SUFFIX,icons.mydrivers.com
 DOMAIN-SUFFIX,ceshi127722.obs.cn-north-4.myhuaweicloud.com
 DOMAIN-SUFFIX,hmdev.obs.cn-east-2.myhuaweicloud.com
 DOMAIN-SUFFIX,nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com
@@ -3655,7 +3649,6 @@ DOMAIN-SUFFIX,pdhhmf.cn
 DOMAIN-SUFFIX,a8.jp.peacebird.com
 DOMAIN-SUFFIX,eloqua.pearsonvue.com.cn
 DOMAIN-SUFFIX,ad.data.peasun.net
-DOMAIN-SUFFIX,adv.peasun.net
 DOMAIN-SUFFIX,peiyou.com
 DOMAIN-SUFFIX,pelletshoponline.com
 DOMAIN-SUFFIX,pengauto.cn
@@ -4255,7 +4248,6 @@ DOMAIN-SUFFIX,statichf.shihuocdn.cn
 DOMAIN-SUFFIX,shilian168.cn
 DOMAIN-SUFFIX,shinedaily.cn
 DOMAIN-SUFFIX,metrics-v1.shiyue.com
-DOMAIN-SUFFIX,ad-pool.shiyuegame.com
 DOMAIN-SUFFIX,ad.shobo.cn
 DOMAIN-SUFFIX,shopfreestylephoto.com
 DOMAIN-SUFFIX,1.shopit.cn
@@ -5323,9 +5315,6 @@ DOMAIN-SUFFIX,1.weiheshidai.com
 DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,ads.welltalky.cn
 DOMAIN-SUFFIX,code.wenbanzhu.com
-DOMAIN-SUFFIX,ad.weplayer.cc
-DOMAIN-SUFFIX,bugly.weplayer.cc
-DOMAIN-SUFFIX,crosspromotion.weplayer.cc
 DOMAIN-SUFFIX,count.west263.com
 DOMAIN-SUFFIX,crashsight.wetest.net
 DOMAIN-SUFFIX,perfsight.wetest.net

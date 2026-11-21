@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20261120163633-cae2581
-# Last modified: 2026/11/20 16:36:33
-# Blocked domains: 6038
+# Version: 20261121005118-679b89c
+# Last modified: 2026/11/21 00:51:18
+# Blocked domains: 6027
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -429,7 +429,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	metrics.abercrombie.cn
 0.0.0.0	smetrics.abercrombie.cn
 0.0.0.0	discover.absciex.com.cn
-0.0.0.0	log.accessflux.com
 0.0.0.0	apilog-web.acfun.cn
 0.0.0.0	jscode.acg68.com
 0.0.0.0	acgshenshicha.cn
@@ -756,7 +755,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ftwo-receiver.autohome.com.cn
 0.0.0.0	idm.api.autohome.com.cn
 0.0.0.0	pcd.autohome.com.cn
-0.0.0.0	pcmx.autohome.com.cn
 0.0.0.0	push.app.autohome.com.cn
 0.0.0.0	pvx.autohome.com.cn
 0.0.0.0	rd.autohome.com.cn
@@ -1667,7 +1665,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	stun.douyucdn.cn
 0.0.0.0	stun1.douyucdn.cn
 0.0.0.0	dotcounter.douyutv.com
-0.0.0.0	download-sougou.com.cn
 0.0.0.0	bigdata.downza.com
 0.0.0.0	dpjzzgw.cn
 0.0.0.0	drdwy.com
@@ -2937,7 +2934,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	log.accessflux.com.w.kunlungr.com
 0.0.0.0	log3-normal-c-alisg.tiktokv.com.w.kunlunsl.com
 0.0.0.0	log3-normal-c-useast1a.tiktokv.com.w.kunlunsl.com
-0.0.0.0	web-sentry.kurogame.com
 0.0.0.0	web-sentry.kurogame.net
 0.0.0.0	qcloud-sg-datareceiver.kurogame.xyz
 0.0.0.0	adsrv.kurogames.com
@@ -3172,7 +3168,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	corp.meitu.com
 0.0.0.0	gg.meitu.com
 0.0.0.0	message.meitu.com
-0.0.0.0	sentry-26.meitu.com
 0.0.0.0	tuiguang.meitu.com
 0.0.0.0	xiuxiu.android.dl.meitu.com
 0.0.0.0	adgame.waimai.meituan.com
@@ -3436,7 +3431,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	adcs-ap.myappsget.com
 0.0.0.0	adcs-ue.myappsget.com
 0.0.0.0	mycleanmymac.com
-0.0.0.0	icons.mydrivers.com
 0.0.0.0	ceshi127722.obs.cn-north-4.myhuaweicloud.com
 0.0.0.0	hmdev.obs.cn-east-2.myhuaweicloud.com
 0.0.0.0	nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com
@@ -3666,7 +3660,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	a8.jp.peacebird.com
 0.0.0.0	eloqua.pearsonvue.com.cn
 0.0.0.0	ad.data.peasun.net
-0.0.0.0	adv.peasun.net
 0.0.0.0	peiyou.com
 0.0.0.0	pelletshoponline.com
 0.0.0.0	pengauto.cn
@@ -4266,7 +4259,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	shilian168.cn
 0.0.0.0	shinedaily.cn
 0.0.0.0	metrics-v1.shiyue.com
-0.0.0.0	ad-pool.shiyuegame.com
 0.0.0.0	ad.shobo.cn
 0.0.0.0	shopfreestylephoto.com
 0.0.0.0	1.shopit.cn
@@ -5334,9 +5326,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	badjs.weixinbridge.com
 0.0.0.0	ads.welltalky.cn
 0.0.0.0	code.wenbanzhu.com
-0.0.0.0	ad.weplayer.cc
-0.0.0.0	bugly.weplayer.cc
-0.0.0.0	crosspromotion.weplayer.cc
 0.0.0.0	count.west263.com
 0.0.0.0	crashsight.wetest.net
 0.0.0.0	perfsight.wetest.net
