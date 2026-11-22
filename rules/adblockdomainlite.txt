@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20261122053606-8e60d7a
-! Last modified: 2026/11/22 05:36:06
-! Blocked domains: 6029
+! Version: 20261122135929-6f40fe7
+! Last modified: 2026/11/22 13:59:29
+! Blocked domains: 6014
 !
 kwflvcdn.000dn.com
 img.0279.net
@@ -478,7 +478,6 @@ adyun.com
 adzp.cn
 aegt.com.cn
 af1tsjdta.com
-afce.cn
 analytics.afirstsoft.cn
 app.aflink.com
 data-reporting.agora.io
@@ -1252,7 +1251,6 @@ metric-sz.ccd.cmbchina.com
 cmbkgmx.cn
 lcf.cmplay.cmcm.com
 cmgadx.com
-cmna.cn
 config.cmpassport.com
 config1.cmpassport.com
 config2.cmpassport.com
@@ -1300,10 +1298,8 @@ smartcard.apps.coloros.com
 iadsdk.apple.com.akadns.net
 wangsu-smetrics.redhat.com.edgekey.net
 trk.compair.com.cn
-compose99.com
 strack.concur.cn
 track.concur.cn
-considerice.com
 cu-cn-north00001.gala.convection.cn
 cu-cn-north00002.gala.convection.cn
 conversefemmes.fr
@@ -1699,7 +1695,6 @@ dz6xqe19d2.com
 dl.dzqzd.com
 api.e-toys.cn
 e810.cn
-eagb.cn
 track.easeus.com
 easou.com
 mini.eastday.com
@@ -1768,7 +1763,6 @@ etoolads.cn
 etwun.com
 evoqueebikeshop.shop
 duologinsupersdk.ewan.cn
-ewbs.cn
 a.exam58.com
 drovs.excelliance.cn
 excsyrv.cn
@@ -2797,7 +2791,6 @@ houyi.kkmh.com
 ipv4.kkmh.com
 logsdk.klingai.com
 affiliate.klook.com
-klvt.cn
 kmpxq.cn
 kxlogo.knet.cn
 knie8wmsk.com
@@ -3104,7 +3097,6 @@ lydownload.net
 lyjq9gwob.com
 lyszsz.cn
 a.lz13.cn
-m3cqjc3og6.com
 m43ocq1uoj.com
 analytics.m5stack.com
 xc.macd.cn
@@ -3536,13 +3528,11 @@ ad.nvdvr.cn
 anews7.nvwu.com
 target.nxp.com.cn
 ad-static.nxtsun.com
-logserver.nzxcloud.cn
 o5y2zd1lq8.com
 o8u3n4q7fe.com
 oaclrst.cn
 oadz.com
 gtm.oasisfeng.com
-obgk.cn
 obs.com.cn
 obscj.com
 obsproject.com.cn
@@ -4325,7 +4315,6 @@ tjs.sjs.sinajs.cn
 sinawap.com
 sincerehomegoods.shop
 mail.siom.ac.cn
-sioq.cn
 siqc.cn
 sirsplajp.com
 analytics.sixt.cn
@@ -4735,7 +4724,6 @@ a.tiyuxiu.com
 tjfytech.com
 tjnwfjy.cn
 tjsptech.com
-tkij.cn
 ads-vp5-xhscdn.tliveapp.com
 livetech.shopee.com.br.tlivecdn.com
 tlsgq.cn
@@ -4819,7 +4807,6 @@ smetrics.tuvsud.cn
 tuxi.com.cn
 log.tv360.vn
 tvabqt.cn
-tvce.cn
 tvdpebx.cn
 md.tvzhe.com
 twdjn.cn
@@ -5255,7 +5242,6 @@ vwkhdi.cn
 vx2tbw9xin.com
 vxhsj.cn
 vyye.cn
-vzia.cn
 w8.com.cn
 w97nv5ibv4.com
 tongdun-fingerprint.walmartmobile.cn
@@ -5320,7 +5306,6 @@ crashsight.wetest.net
 perfsight.wetest.net
 htrace.wetvinfo.com
 mtrace.wetvinfo.com
-wfvs.cn
 whaup-whin.shop
 sentry-pub-ws.payerplus.ai.whecloud.com
 sentry.oihlecz.com.whecloud.com

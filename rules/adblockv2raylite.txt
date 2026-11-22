@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20261122053606-8e60d7a
-# Last modified: 2026/11/22 05:36:06
-# Blocked domains: 6029
+# Version: 20261122135929-6f40fe7
+# Last modified: 2026/11/22 13:59:29
+# Blocked domains: 6014
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -478,7 +478,6 @@ adyun.com @ads
 adzp.cn @ads
 aegt.com.cn @ads
 af1tsjdta.com @ads
-afce.cn @ads
 analytics.afirstsoft.cn @ads
 app.aflink.com @ads
 data-reporting.agora.io @ads
@@ -1252,7 +1251,6 @@ metric-sz.ccd.cmbchina.com @ads
 cmbkgmx.cn @ads
 lcf.cmplay.cmcm.com @ads
 cmgadx.com @ads
-cmna.cn @ads
 config.cmpassport.com @ads
 config1.cmpassport.com @ads
 config2.cmpassport.com @ads
@@ -1300,10 +1298,8 @@ smartcard.apps.coloros.com @ads
 iadsdk.apple.com.akadns.net @ads
 wangsu-smetrics.redhat.com.edgekey.net @ads
 trk.compair.com.cn @ads
-compose99.com @ads
 strack.concur.cn @ads
 track.concur.cn @ads
-considerice.com @ads
 cu-cn-north00001.gala.convection.cn @ads
 cu-cn-north00002.gala.convection.cn @ads
 conversefemmes.fr @ads
@@ -1699,7 +1695,6 @@ dz6xqe19d2.com @ads
 dl.dzqzd.com @ads
 api.e-toys.cn @ads
 e810.cn @ads
-eagb.cn @ads
 track.easeus.com @ads
 easou.com @ads
 mini.eastday.com @ads
@@ -1768,7 +1763,6 @@ etoolads.cn @ads
 etwun.com @ads
 evoqueebikeshop.shop @ads
 duologinsupersdk.ewan.cn @ads
-ewbs.cn @ads
 a.exam58.com @ads
 drovs.excelliance.cn @ads
 excsyrv.cn @ads
@@ -2797,7 +2791,6 @@ houyi.kkmh.com @ads
 ipv4.kkmh.com @ads
 logsdk.klingai.com @ads
 affiliate.klook.com @ads
-klvt.cn @ads
 kmpxq.cn @ads
 kxlogo.knet.cn @ads
 knie8wmsk.com @ads
@@ -3104,7 +3097,6 @@ lydownload.net @ads
 lyjq9gwob.com @ads
 lyszsz.cn @ads
 a.lz13.cn @ads
-m3cqjc3og6.com @ads
 m43ocq1uoj.com @ads
 analytics.m5stack.com @ads
 xc.macd.cn @ads
@@ -3536,13 +3528,11 @@ ad.nvdvr.cn @ads
 anews7.nvwu.com @ads
 target.nxp.com.cn @ads
 ad-static.nxtsun.com @ads
-logserver.nzxcloud.cn @ads
 o5y2zd1lq8.com @ads
 o8u3n4q7fe.com @ads
 oaclrst.cn @ads
 oadz.com @ads
 gtm.oasisfeng.com @ads
-obgk.cn @ads
 obs.com.cn @ads
 obscj.com @ads
 obsproject.com.cn @ads
@@ -4325,7 +4315,6 @@ tjs.sjs.sinajs.cn @ads
 sinawap.com @ads
 sincerehomegoods.shop @ads
 mail.siom.ac.cn @ads
-sioq.cn @ads
 siqc.cn @ads
 sirsplajp.com @ads
 analytics.sixt.cn @ads
@@ -4735,7 +4724,6 @@ a.tiyuxiu.com @ads
 tjfytech.com @ads
 tjnwfjy.cn @ads
 tjsptech.com @ads
-tkij.cn @ads
 ads-vp5-xhscdn.tliveapp.com @ads
 livetech.shopee.com.br.tlivecdn.com @ads
 tlsgq.cn @ads
@@ -4819,7 +4807,6 @@ smetrics.tuvsud.cn @ads
 tuxi.com.cn @ads
 log.tv360.vn @ads
 tvabqt.cn @ads
-tvce.cn @ads
 tvdpebx.cn @ads
 md.tvzhe.com @ads
 twdjn.cn @ads
@@ -5255,7 +5242,6 @@ vwkhdi.cn @ads
 vx2tbw9xin.com @ads
 vxhsj.cn @ads
 vyye.cn @ads
-vzia.cn @ads
 w8.com.cn @ads
 w97nv5ibv4.com @ads
 tongdun-fingerprint.walmartmobile.cn @ads
@@ -5320,7 +5306,6 @@ crashsight.wetest.net @ads
 perfsight.wetest.net @ads
 htrace.wetvinfo.com @ads
 mtrace.wetvinfo.com @ads
-wfvs.cn @ads
 whaup-whin.shop @ads
 sentry-pub-ws.payerplus.ai.whecloud.com @ads
 sentry.oihlecz.com.whecloud.com @ads
