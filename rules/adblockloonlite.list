@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/11/24 03:59:27
-#!support=5742
+#!date=2026/11/24 17:18:08
+#!support=5719
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -244,7 +244,6 @@ DOMAIN-SUFFIX,4xr7sy3gu.com
 DOMAIN-SUFFIX,1.5000yan.com
 DOMAIN-SUFFIX,4399stat.5054399.com
 DOMAIN-SUFFIX,51.la
-DOMAIN-SUFFIX,51015kidpl.shop
 DOMAIN-SUFFIX,511a.cn
 DOMAIN-SUFFIX,51240.com
 DOMAIN-SUFFIX,5166.info
@@ -651,8 +650,6 @@ DOMAIN-SUFFIX,apdfmhp.cn
 DOMAIN-SUFFIX,analytics.api.myqnapcloud.cn
 DOMAIN-SUFFIX,qcenter-metrics-device.api.myqnapcloud.cn
 DOMAIN-SUFFIX,adx.apicgate.com
-DOMAIN-SUFFIX,sg-fp.apitd.net
-DOMAIN-SUFFIX,us-behavior.apitd.net
 DOMAIN-SUFFIX,apkevery.com
 DOMAIN-SUFFIX,r.apkpure.net
 DOMAIN-SUFFIX,t.apkpure.net
@@ -698,6 +695,7 @@ DOMAIN-SUFFIX,ftwo-feedback.autohome.com.cn
 DOMAIN-SUFFIX,ftwo-receiver.autohome.com.cn
 DOMAIN-SUFFIX,idm.api.autohome.com.cn
 DOMAIN-SUFFIX,pcd.autohome.com.cn
+DOMAIN-SUFFIX,pcmx.autohome.com.cn
 DOMAIN-SUFFIX,push.app.autohome.com.cn
 DOMAIN-SUFFIX,pvx.autohome.com.cn
 DOMAIN-SUFFIX,rd.autohome.com.cn
@@ -1444,7 +1442,6 @@ DOMAIN-SUFFIX,v5-se-sjy-daily-reading-ad.dizgslb.com
 DOMAIN-SUFFIX,bugly.djigate.com
 DOMAIN-SUFFIX,sentry-io.djiops.com
 DOMAIN-SUFFIX,statistical-report.djiservice.org
-DOMAIN-SUFFIX,dkny.com.pl
 DOMAIN-SUFFIX,dmrtb.com
 DOMAIN-SUFFIX,dmyzf4op0.com
 DOMAIN-SUFFIX,xs.dmzj.com
@@ -1607,9 +1604,7 @@ DOMAIN-SUFFIX,eblnzoq.cn
 DOMAIN-SUFFIX,jb.ecar168.cn
 DOMAIN-SUFFIX,log9-normal-c-useast1a.tiktokv.com.ecdnx.com
 DOMAIN-SUFFIX,edgeone.app
-DOMAIN-SUFFIX,dhlpolska.edgeone.cool
 DOMAIN-SUFFIX,faktura-nzbdcddw.edgeone.cool
-DOMAIN-SUFFIX,65362655721.edgeone.dev
 DOMAIN-SUFFIX,addmeononoutllokpositionlist-dpu6dy3fqowd.edgeone.dev
 DOMAIN-SUFFIX,b12051923-16f0-45ca-b4e8-40012086af5b.edgeone.dev
 DOMAIN-SUFFIX,b71483581-b6dc-4c59-8712-306f54e8e375.edgeone.dev
@@ -1618,11 +1613,9 @@ DOMAIN-SUFFIX,build-flex-ttg-dpgzqjmv7a1i.edgeone.dev
 DOMAIN-SUFFIX,buildnowandeployprogram-dpkxx50ris3x.edgeone.dev
 DOMAIN-SUFFIX,coremail-dp3qtv7j363o.edgeone.dev
 DOMAIN-SUFFIX,flyaairlogis-dp1f8pq5osbp.edgeone.dev
-DOMAIN-SUFFIX,fyguhaghytusg.edgeone.dev
 DOMAIN-SUFFIX,managpoztaopl.edgeone.dev
 DOMAIN-SUFFIX,moudhgsr-dp4lyapywtjw.edgeone.dev
 DOMAIN-SUFFIX,mxoot-dp3j3hh9ymkp.edgeone.dev
-DOMAIN-SUFFIX,papa.edgeone.dev
 DOMAIN-SUFFIX,portalportalportalportalportal.edgeone.dev
 DOMAIN-SUFFIX,register-demand-framework-shareholding-capital-dpuvktbvtbq4.edgeone.dev
 DOMAIN-SUFFIX,super-chocolate-gaxl7qfi.edgeone.dev
@@ -1740,7 +1733,6 @@ DOMAIN-SUFFIX,findbigname.cn
 DOMAIN-SUFFIX,analytics-log.finder.co.kr
 DOMAIN-SUFFIX,i-insurance.finzfin.com
 DOMAIN-SUFFIX,finzy1-explicabo16.sbs
-DOMAIN-SUFFIX,finzy2-illo96.sbs
 DOMAIN-SUFFIX,finzy2-ipsa87.sbs
 DOMAIN-SUFFIX,finzy5-est27.sbs
 DOMAIN-SUFFIX,api.firwinds.site
@@ -1853,9 +1845,7 @@ DOMAIN-SUFFIX,g.gegeyingshi.com
 DOMAIN-SUFFIX,image.gentags.com
 DOMAIN-SUFFIX,code.geonamebase.com
 DOMAIN-SUFFIX,gepush.com
-DOMAIN-SUFFIX,gestrauss.shop
 DOMAIN-SUFFIX,getebikeshop.shop
-DOMAIN-SUFFIX,getplanetaprezent.shop
 DOMAIN-SUFFIX,getriskmadeinwarsaw.shop
 DOMAIN-SUFFIX,getsolarscooters.shop
 DOMAIN-SUFFIX,getsolarwarehousesa.shop
@@ -2042,7 +2032,6 @@ DOMAIN-SUFFIX,2.haoxue360.com
 DOMAIN-SUFFIX,haozhuangji.com
 DOMAIN-SUFFIX,log.dc.cn.happyelements.com
 DOMAIN-SUFFIX,hapying.com
-DOMAIN-SUFFIX,harvestlanshop.shop
 DOMAIN-SUFFIX,hashnest.com
 DOMAIN-SUFFIX,havaianasfr.fr
 DOMAIN-SUFFIX,a.hbf23.cn
@@ -2052,7 +2041,6 @@ DOMAIN-SUFFIX,hbxhnqj.cn
 DOMAIN-SUFFIX,hbzhenquan.cn
 DOMAIN-SUFFIX,hcbmq.cn
 DOMAIN-SUFFIX,hczzw.com
-DOMAIN-SUFFIX,hdtnet.cn
 DOMAIN-SUFFIX,hechaocheng.cn
 DOMAIN-SUFFIX,heheshield.com
 DOMAIN-SUFFIX,heima8.com
@@ -2340,6 +2328,7 @@ DOMAIN-SUFFIX,udblog.huya.com
 DOMAIN-SUFFIX,va.huya.com
 DOMAIN-SUFFIX,ylog.huya.com
 DOMAIN-SUFFIX,trackingprd.hwwt8.com
+DOMAIN-SUFFIX,hxgirl.cn
 DOMAIN-SUFFIX,xuexi.hydcd.com
 DOMAIN-SUFFIX,zuowen.hydcd.com
 DOMAIN-SUFFIX,hypers.com
@@ -2393,7 +2382,6 @@ DOMAIN-SUFFIX,c0.ifengimg.com
 DOMAIN-SUFFIX,y3.ifengimg.com
 DOMAIN-SUFFIX,log.iflytek.com
 DOMAIN-SUFFIX,logconf.iflytek.com
-DOMAIN-SUFFIX,log.igamecj.com
 DOMAIN-SUFFIX,entree.igetget.com
 DOMAIN-SUFFIX,piccdn.igetget.com
 DOMAIN-SUFFIX,seeder.igetget.com
@@ -2451,7 +2439,6 @@ DOMAIN-SUFFIX,smetrics.marketing.interact-lighting.com.cn
 DOMAIN-SUFFIX,ads.inteyun.cn
 DOMAIN-SUFFIX,csbase-sentry-aws-online.intsig.net
 DOMAIN-SUFFIX,ioiksw.cn
-DOMAIN-SUFFIX,umami.ioiox.net
 DOMAIN-SUFFIX,c81.ipanocloud.com
 DOMAIN-SUFFIX,ipinyou.com
 DOMAIN-SUFFIX,ipinyou.com.cn
@@ -2597,7 +2584,6 @@ DOMAIN-SUFFIX,ub1.job592.com
 DOMAIN-SUFFIX,yqg.jobui.com
 DOMAIN-SUFFIX,jollyspring.com
 DOMAIN-SUFFIX,email-ap.joneslanglasalle.com.cn
-DOMAIN-SUFFIX,ad.jooancloud.com
 DOMAIN-SUFFIX,telemetry.api.joox.com
 DOMAIN-SUFFIX,log.joyapi.com
 DOMAIN-SUFFIX,sentry.joybest.com.cn
@@ -2817,7 +2803,6 @@ DOMAIN-SUFFIX,l3j3glzp6g.com
 DOMAIN-SUFFIX,lop.lamimi.cn
 DOMAIN-SUFFIX,brc.languageclass.cc
 DOMAIN-SUFFIX,zq.lansedir.com
-DOMAIN-SUFFIX,ads.games.laohu.com
 DOMAIN-SUFFIX,laomaotao.net
 DOMAIN-SUFFIX,sensors.larkplayerapp.com
 DOMAIN-SUFFIX,images.newsletter.larksuite.com
@@ -2945,7 +2930,6 @@ DOMAIN-SUFFIX,webanalytics.logitech.com.cn
 DOMAIN-SUFFIX,webtarget.logitech.com.cn
 DOMAIN-SUFFIX,webanalytics.logitechg.com.cn
 DOMAIN-SUFFIX,webtarget.logitechg.com.cn
-DOMAIN-SUFFIX,logitechs.pl
 DOMAIN-SUFFIX,logoshejishi.com
 DOMAIN-SUFFIX,lomark.cn
 DOMAIN-SUFFIX,looyu.com
@@ -3151,6 +3135,7 @@ DOMAIN-SUFFIX,ys-log-upload.mihoyo.com
 DOMAIN-SUFFIX,zzz-log-upload.mihoyo.com
 DOMAIN-SUFFIX,trk.miltonroy.com.cn
 DOMAIN-SUFFIX,playable-stats.mindworks-creative.com
+DOMAIN-SUFFIX,ad.mingruidata.com
 DOMAIN-SUFFIX,mintegral.com
 DOMAIN-SUFFIX,insight.mintel.com
 DOMAIN-SUFFIX,wm.mipcdn.com
@@ -3940,8 +3925,6 @@ DOMAIN-SUFFIX,sentry.reyee.yun
 DOMAIN-SUFFIX,track.msadcenter.rfjq.com
 DOMAIN-SUFFIX,richh.cn
 DOMAIN-SUFFIX,ad.richmob.cn
-DOMAIN-SUFFIX,riskmadeinwarsawstore.shop
-DOMAIN-SUFFIX,ritualseur.shop
 DOMAIN-SUFFIX,rkcfmfm97.com
 DOMAIN-SUFFIX,rkzby.cn
 DOMAIN-SUFFIX,rljjt.cn
@@ -4057,7 +4040,6 @@ DOMAIN-SUFFIX,sentry.shoplazza.com
 DOMAIN-SUFFIX,shopmaxusersatzteile.shop
 DOMAIN-SUFFIX,shoprseasafetyoutlet.shop
 DOMAIN-SUFFIX,shopskydance.shop
-DOMAIN-SUFFIX,shoujiawang.cn
 DOMAIN-SUFFIX,ads-shopping.shouqianba.com
 DOMAIN-SUFFIX,shrobotics.cn
 DOMAIN-SUFFIX,shuiguo.com
@@ -4162,7 +4144,6 @@ DOMAIN-SUFFIX,raffle-entry.info.smart.com
 DOMAIN-SUFFIX,smetrics.future.smart.com
 DOMAIN-SUFFIX,sms.info.smart.com
 DOMAIN-SUFFIX,smucdn.com
-DOMAIN-SUFFIX,smykmarketspl.shop
 DOMAIN-SUFFIX,errortracking.snapp.site
 DOMAIN-SUFFIX,ad.snappea.com
 DOMAIN-SUFFIX,sensors.snappea.com
@@ -5065,8 +5046,6 @@ DOMAIN-SUFFIX,1.weiheshidai.com
 DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,ads.welltalky.cn
 DOMAIN-SUFFIX,code.wenbanzhu.com
-DOMAIN-SUFFIX,ad.weplayer.cc
-DOMAIN-SUFFIX,crosspromotion.weplayer.cc
 DOMAIN-SUFFIX,count.west263.com
 DOMAIN-SUFFIX,crashsight.wetest.net
 DOMAIN-SUFFIX,perfsight.wetest.net
@@ -5099,7 +5078,6 @@ DOMAIN-SUFFIX,wmmax.com
 DOMAIN-SUFFIX,wn68din.cn
 DOMAIN-SUFFIX,wndj.net
 DOMAIN-SUFFIX,wnp.com
-DOMAIN-SUFFIX,wojas-pl.shop
 DOMAIN-SUFFIX,analytics.wondershare.cc
 DOMAIN-SUFFIX,event.wondershare.com
 DOMAIN-SUFFIX,platform.wondershare.com
@@ -5118,6 +5096,7 @@ DOMAIN-SUFFIX,ios-informationplatform.wps.cn
 DOMAIN-SUFFIX,minfo.wps.cn
 DOMAIN-SUFFIX,pcfg.wps.cn
 DOMAIN-SUFFIX,push.wps.cn
+DOMAIN-SUFFIX,spinfo.wps.cn
 DOMAIN-SUFFIX,update.wps.cn
 DOMAIN-SUFFIX,wpsweb-dc.wps.cn
 DOMAIN-SUFFIX,abroad-ad.kingsoft-office-service.com.dns.wps.com
@@ -5402,7 +5381,6 @@ DOMAIN-SUFFIX,ca.yangshengtv.com
 DOMAIN-SUFFIX,yangshengzu.cn
 DOMAIN-SUFFIX,yatemy.cn
 DOMAIN-SUFFIX,log.yayaad.com
-DOMAIN-SUFFIX,ycsshb.cn
 DOMAIN-SUFFIX,yd126.com
 DOMAIN-SUFFIX,ydmob.com
 DOMAIN-SUFFIX,adpublish.ydstatic.com
@@ -5650,7 +5628,6 @@ DOMAIN-SUFFIX,ads5-normal.zijieapi.com
 DOMAIN-SUFFIX,ads5-normal-hj.zijieapi.com
 DOMAIN-SUFFIX,ads5-normal-lq.zijieapi.com
 DOMAIN-SUFFIX,ads5-normal-xh.zijieapi.com
-DOMAIN-SUFFIX,ads5-normal-zb.zijieapi.com
 DOMAIN-SUFFIX,applog.zijieapi.com
 DOMAIN-SUFFIX,feedback-c.zijieapi.com
 DOMAIN-SUFFIX,gecko3-lf.zijieapi.com
