@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/11/26 02:32:54
-#!support=5777
+#!date=2026/11/26 15:43:26
+#!support=5771
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -694,7 +694,6 @@ DOMAIN-SUFFIX,a.armystar.com
 DOMAIN-SUFFIX,trk.arozone.cn
 DOMAIN-SUFFIX,arpun.com
 DOMAIN-SUFFIX,aspwg.cn
-DOMAIN-SUFFIX,aswlx.cn
 DOMAIN-SUFFIX,asyn.cn
 DOMAIN-SUFFIX,aiseet.aa.atianqi.com
 DOMAIN-SUFFIX,atpanel.com
@@ -2755,7 +2754,6 @@ DOMAIN-SUFFIX,kqg8jh8rk.com
 DOMAIN-SUFFIX,p3-ad.adukwai.com.download.ks-cdn.com
 DOMAIN-SUFFIX,v6-reading-ad.qznovelvod.com-1.download.ks-cdn.com
 DOMAIN-SUFFIX,slb-p2p.vcloud.ks-live.com
-DOMAIN-SUFFIX,ks.cn
 DOMAIN-SUFFIX,log-sdk.ksapisrv.com
 DOMAIN-SUFFIX,multi-az-ulog.ksapisrv.com
 DOMAIN-SUFFIX,ulog.ksapisrv.com
@@ -3061,7 +3059,6 @@ DOMAIN-SUFFIX,mediav.com
 DOMAIN-SUFFIX,tr.email.medicalexpo.com
 DOMAIN-SUFFIX,medproad.com
 DOMAIN-SUFFIX,meihu56.cn
-DOMAIN-SUFFIX,meinuovip.com
 DOMAIN-SUFFIX,meiqia.com
 DOMAIN-SUFFIX,sentry.meitu-int.com
 DOMAIN-SUFFIX,corp.meitu.com
@@ -5127,9 +5124,6 @@ DOMAIN-SUFFIX,1.weiheshidai.com
 DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,ads.welltalky.cn
 DOMAIN-SUFFIX,code.wenbanzhu.com
-DOMAIN-SUFFIX,ad.weplayer.cc
-DOMAIN-SUFFIX,bugly.weplayer.cc
-DOMAIN-SUFFIX,crosspromotion.weplayer.cc
 DOMAIN-SUFFIX,count.west263.com
 DOMAIN-SUFFIX,crashsight.wetest.net
 DOMAIN-SUFFIX,perfsight.wetest.net

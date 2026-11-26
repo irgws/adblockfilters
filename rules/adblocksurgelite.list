@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/11/26 02:32:55
-#!support=5777
+#!date=2026/11/26 15:43:27
+#!support=5771
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
@@ -697,7 +697,6 @@
 .trk.arozone.cn
 .arpun.com
 .aspwg.cn
-.aswlx.cn
 .asyn.cn
 .aiseet.aa.atianqi.com
 .atpanel.com
@@ -2758,7 +2757,6 @@
 .p3-ad.adukwai.com.download.ks-cdn.com
 .v6-reading-ad.qznovelvod.com-1.download.ks-cdn.com
 .slb-p2p.vcloud.ks-live.com
-.ks.cn
 .log-sdk.ksapisrv.com
 .multi-az-ulog.ksapisrv.com
 .ulog.ksapisrv.com
@@ -3064,7 +3062,6 @@
 .tr.email.medicalexpo.com
 .medproad.com
 .meihu56.cn
-.meinuovip.com
 .meiqia.com
 .sentry.meitu-int.com
 .corp.meitu.com
@@ -5130,9 +5127,6 @@
 .badjs.weixinbridge.com
 .ads.welltalky.cn
 .code.wenbanzhu.com
-.ad.weplayer.cc
-.bugly.weplayer.cc
-.crosspromotion.weplayer.cc
 .count.west263.com
 .crashsight.wetest.net
 .perfsight.wetest.net
