@@ -2,8 +2,8 @@
 #!desc=每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 #!homepage=https://github.com/217heidai/adblockfilters
 #!source=https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockshadowrocketlite.sgmodule
-#!version=20261128015906-e972684
-#!updated=2026/11/28 01:59:06
+#!version=20261128151021-d3dbbf2
+#!updated=2026/11/28 15:10:21
 
 [Rule]
 DOMAIN-SUFFIX,kwflvcdn.000dn.com,REJECT-DROP
@@ -750,7 +750,6 @@ DOMAIN-SUFFIX,tjinit-event.babybus.com,REJECT-DROP
 DOMAIN-SUFFIX,tjinit-global-register.babybus.com,REJECT-DROP
 DOMAIN-SUFFIX,ime-ad-reporter.badambiz.com,REJECT-DROP
 DOMAIN-SUFFIX,qmlog.baertt.com,REJECT-DROP
-DOMAIN-SUFFIX,bagmarket.shop,REJECT-DROP
 DOMAIN-SUFFIX,advertise.baicizhan.com,REJECT-DROP
 DOMAIN-SUFFIX,events.baicizhan.com,REJECT-DROP
 DOMAIN-SUFFIX,a.baidinet.com,REJECT-DROP
@@ -1679,7 +1678,6 @@ DOMAIN-SUFFIX,eblnzoq.cn,REJECT-DROP
 DOMAIN-SUFFIX,jb.ecar168.cn,REJECT-DROP
 DOMAIN-SUFFIX,log9-normal-c-useast1a.tiktokv.com.ecdnx.com,REJECT-DROP
 DOMAIN-SUFFIX,edgeone.app,REJECT-DROP
-DOMAIN-SUFFIX,faktura-nzbdcddw.edgeone.cool,REJECT-DROP
 DOMAIN-SUFFIX,addmeononoutllokpositionlist-dpu6dy3fqowd.edgeone.dev,REJECT-DROP
 DOMAIN-SUFFIX,b12051923-16f0-45ca-b4e8-40012086af5b.edgeone.dev,REJECT-DROP
 DOMAIN-SUFFIX,b71483581-b6dc-4c59-8712-306f54e8e375.edgeone.dev,REJECT-DROP
@@ -3006,7 +3004,6 @@ DOMAIN-SUFFIX,ad.lhyghh.cn,REJECT-DROP
 DOMAIN-SUFFIX,ad.data.lianjia.com,REJECT-DROP
 DOMAIN-SUFFIX,dig.lianjia.com,REJECT-DROP
 DOMAIN-SUFFIX,adimg.liba.com,REJECT-DROP
-DOMAIN-SUFFIX,libabymarket.shop,REJECT-DROP
 DOMAIN-SUFFIX,track.libii.cn,REJECT-DROP
 DOMAIN-SUFFIX,lidanzi.shop,REJECT-DROP
 DOMAIN-SUFFIX,liebaovip.com,REJECT-DROP
@@ -3016,7 +3013,6 @@ DOMAIN-SUFFIX,lingd.cn,REJECT-DROP
 DOMAIN-SUFFIX,ads.linkedin.cn,REJECT-DROP
 DOMAIN-SUFFIX,linkhaitao.com,REJECT-DROP
 DOMAIN-SUFFIX,linkintec.cn,REJECT-DROP
-DOMAIN-SUFFIX,lionbaby.shop,REJECT-DROP
 DOMAIN-SUFFIX,litchiads.com,REJECT-DROP
 DOMAIN-SUFFIX,sdk-stats.litemob.net,REJECT-DROP
 DOMAIN-SUFFIX,little-toddler.shop,REJECT-DROP
@@ -3486,7 +3482,6 @@ DOMAIN-SUFFIX,oadz.com,REJECT-DROP
 DOMAIN-SUFFIX,gtm.oasisfeng.com,REJECT-DROP
 DOMAIN-SUFFIX,obsworks.com,REJECT-DROP
 DOMAIN-SUFFIX,obv3epx22d.com,REJECT-DROP
-DOMAIN-SUFFIX,ocbagmarket.shop,REJECT-DROP
 DOMAIN-SUFFIX,ocbagsmarket.shop,REJECT-DROP
 DOMAIN-SUFFIX,analytics.oceanengine.com,REJECT-DROP
 DOMAIN-SUFFIX,lf-event-manager.oceanengine.com,REJECT-DROP
@@ -5194,9 +5189,6 @@ DOMAIN-SUFFIX,1.weiheshidai.com,REJECT-DROP
 DOMAIN-SUFFIX,badjs.weixinbridge.com,REJECT-DROP
 DOMAIN-SUFFIX,ads.welltalky.cn,REJECT-DROP
 DOMAIN-SUFFIX,code.wenbanzhu.com,REJECT-DROP
-DOMAIN-SUFFIX,ad.weplayer.cc,REJECT-DROP
-DOMAIN-SUFFIX,bugly.weplayer.cc,REJECT-DROP
-DOMAIN-SUFFIX,crosspromotion.weplayer.cc,REJECT-DROP
 DOMAIN-SUFFIX,count.west263.com,REJECT-DROP
 DOMAIN-SUFFIX,crashsight.wetest.net,REJECT-DROP
 DOMAIN-SUFFIX,perfsight.wetest.net,REJECT-DROP

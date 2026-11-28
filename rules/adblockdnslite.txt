@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20261128015906-e972684
-! Last modified: 2026/11/28 01:59:06
-! Blocked domains: 5889
+! Version: 20261128151020-d3dbbf2
+! Last modified: 2026/11/28 15:10:20
+! Blocked domains: 5881
 ! unBlocked domains: 15
 !
 ||kwflvcdn.000dn.com^
@@ -752,7 +752,6 @@
 ||tjinit-global-register.babybus.com^
 ||ime-ad-reporter.badambiz.com^
 ||qmlog.baertt.com^
-||bagmarket.shop^
 ||advertise.baicizhan.com^
 ||events.baicizhan.com^
 ||a.baidinet.com^
@@ -1681,7 +1680,6 @@
 ||jb.ecar168.cn^
 ||log9-normal-c-useast1a.tiktokv.com.ecdnx.com^
 ||edgeone.app^
-||faktura-nzbdcddw.edgeone.cool^
 ||addmeononoutllokpositionlist-dpu6dy3fqowd.edgeone.dev^
 ||b12051923-16f0-45ca-b4e8-40012086af5b.edgeone.dev^
 ||b71483581-b6dc-4c59-8712-306f54e8e375.edgeone.dev^
@@ -3008,7 +3006,6 @@
 ||ad.data.lianjia.com^
 ||dig.lianjia.com^
 ||adimg.liba.com^
-||libabymarket.shop^
 ||track.libii.cn^
 ||lidanzi.shop^
 ||liebaovip.com^
@@ -3018,7 +3015,6 @@
 ||ads.linkedin.cn^
 ||linkhaitao.com^
 ||linkintec.cn^
-||lionbaby.shop^
 ||litchiads.com^
 ||sdk-stats.litemob.net^
 ||little-toddler.shop^
@@ -3488,7 +3484,6 @@
 ||gtm.oasisfeng.com^
 ||obsworks.com^
 ||obv3epx22d.com^
-||ocbagmarket.shop^
 ||ocbagsmarket.shop^
 ||analytics.oceanengine.com^
 ||lf-event-manager.oceanengine.com^
@@ -5196,9 +5191,6 @@
 ||badjs.weixinbridge.com^
 ||ads.welltalky.cn^
 ||code.wenbanzhu.com^
-||ad.weplayer.cc^
-||bugly.weplayer.cc^
-||crosspromotion.weplayer.cc^
 ||count.west263.com^
 ||crashsight.wetest.net^
 ||perfsight.wetest.net^

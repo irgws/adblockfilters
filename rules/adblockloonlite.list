@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/11/28 01:59:06
-#!support=5889
+#!date=2026/11/28 15:10:20
+#!support=5881
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -755,7 +755,6 @@ DOMAIN-SUFFIX,tjinit-event.babybus.com
 DOMAIN-SUFFIX,tjinit-global-register.babybus.com
 DOMAIN-SUFFIX,ime-ad-reporter.badambiz.com
 DOMAIN-SUFFIX,qmlog.baertt.com
-DOMAIN-SUFFIX,bagmarket.shop
 DOMAIN-SUFFIX,advertise.baicizhan.com
 DOMAIN-SUFFIX,events.baicizhan.com
 DOMAIN-SUFFIX,a.baidinet.com
@@ -1684,7 +1683,6 @@ DOMAIN-SUFFIX,eblnzoq.cn
 DOMAIN-SUFFIX,jb.ecar168.cn
 DOMAIN-SUFFIX,log9-normal-c-useast1a.tiktokv.com.ecdnx.com
 DOMAIN-SUFFIX,edgeone.app
-DOMAIN-SUFFIX,faktura-nzbdcddw.edgeone.cool
 DOMAIN-SUFFIX,addmeononoutllokpositionlist-dpu6dy3fqowd.edgeone.dev
 DOMAIN-SUFFIX,b12051923-16f0-45ca-b4e8-40012086af5b.edgeone.dev
 DOMAIN-SUFFIX,b71483581-b6dc-4c59-8712-306f54e8e375.edgeone.dev
@@ -3011,7 +3009,6 @@ DOMAIN-SUFFIX,ad.lhyghh.cn
 DOMAIN-SUFFIX,ad.data.lianjia.com
 DOMAIN-SUFFIX,dig.lianjia.com
 DOMAIN-SUFFIX,adimg.liba.com
-DOMAIN-SUFFIX,libabymarket.shop
 DOMAIN-SUFFIX,track.libii.cn
 DOMAIN-SUFFIX,lidanzi.shop
 DOMAIN-SUFFIX,liebaovip.com
@@ -3021,7 +3018,6 @@ DOMAIN-SUFFIX,lingd.cn
 DOMAIN-SUFFIX,ads.linkedin.cn
 DOMAIN-SUFFIX,linkhaitao.com
 DOMAIN-SUFFIX,linkintec.cn
-DOMAIN-SUFFIX,lionbaby.shop
 DOMAIN-SUFFIX,litchiads.com
 DOMAIN-SUFFIX,sdk-stats.litemob.net
 DOMAIN-SUFFIX,little-toddler.shop
@@ -3491,7 +3487,6 @@ DOMAIN-SUFFIX,oadz.com
 DOMAIN-SUFFIX,gtm.oasisfeng.com
 DOMAIN-SUFFIX,obsworks.com
 DOMAIN-SUFFIX,obv3epx22d.com
-DOMAIN-SUFFIX,ocbagmarket.shop
 DOMAIN-SUFFIX,ocbagsmarket.shop
 DOMAIN-SUFFIX,analytics.oceanengine.com
 DOMAIN-SUFFIX,lf-event-manager.oceanengine.com
@@ -5199,9 +5194,6 @@ DOMAIN-SUFFIX,1.weiheshidai.com
 DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,ads.welltalky.cn
 DOMAIN-SUFFIX,code.wenbanzhu.com
-DOMAIN-SUFFIX,ad.weplayer.cc
-DOMAIN-SUFFIX,bugly.weplayer.cc
-DOMAIN-SUFFIX,crosspromotion.weplayer.cc
 DOMAIN-SUFFIX,count.west263.com
 DOMAIN-SUFFIX,crashsight.wetest.net
 DOMAIN-SUFFIX,perfsight.wetest.net

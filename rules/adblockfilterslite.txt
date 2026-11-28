@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
-! Version: 20261128015906-e972684
-! Last modified: 2026/11/28 01:59:06
-! Blocked Filters: 41366
+! Version: 20261128151020-d3dbbf2
+! Last modified: 2026/11/28 15:10:20
+! Blocked Filters: 41370
 !
 ###AC_ad
 ###AD_160
@@ -24293,6 +24293,7 @@ $script,xmlhttprequest,third-party,domain=00ksw.com|01zww.com|0biquge.com|114zw.
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=viki.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=visalist.io
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vladan.fr
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vpnjantit.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vrcmods.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vstdrive.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=w3resource.com
@@ -24464,6 +24465,7 @@ $script,xmlhttprequest,third-party,domain=00ksw.com|01zww.com|0biquge.com|114zw.
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?$domain=production-api.androidacy.com,stealth=referrer
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?adblocktest$domain=haafedk2.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=$script,domain=lineup11.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-$domain=functioncube.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-$domain=uploadg.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?ts=$script,domain=indratranslations.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$domain=linkneverdie.net
@@ -27005,6 +27007,9 @@ boyfriend.tv,boyfriendtv.com,hentaigasm.com,masahub.net,missav.ai,missav.ws,miss
 boyfriendtv.com,ashemaletube.com,pornoxo.com###page-shell > * {pointer-events:auto;}
 boyfriendtv.com,ashemaletube.com,pornoxo.com###page-shell {padding-top:0;background-image:none;cursor:auto;pointer-events:none;}
 boyfriendtv.com,ashemaletube.com,pornoxo.com##body {background-image:none;}
+boyfriendtv.com,ashemaletube.com,pornoxo.com#$##page-shell > * { pointer-events:auto; }
+boyfriendtv.com,ashemaletube.com,pornoxo.com#$##page-shell { padding-top:0;background-image:none;cursor:auto;pointer-events:none; }
+boyfriendtv.com,ashemaletube.com,pornoxo.com#$#body { background-image:none; }
 boyfriendtv.com,historydaily.org##.adwrapper
 boylov.xyz,boylove.cc,boyloves.fun###fake_avivid_waterfall_webpush
 boylov.xyz,boylove.cc,boyloves.fun##.div_sticky2
@@ -29053,8 +29058,8 @@ fashion.qq.com##.rv-js-root
 fashionpulis.com,swagger.io,techiecorner.com##img[width="250"]
 fashionunited.*#?#.MuiGrid-root > div.MuiGrid-root[padding] > div[class^="css"] > div > div[class^="css"] > div.adunitContainer:upward(4)
 fashionunited.*#?#.adunitContainer:upward(3)
-fast-down.com,lnbzi.com,lnbzi.com,linegee.net,aii.sh,srnky.com,clksz.com,fcportables.com,intercelestial.com#%#(()=>{try{const g=Object.getOwnPropertyDescriptor;Object.getOwnPropertyDescriptor=function(o,p){return o===navigator&&p==='webdriver'?undefined:g(o,p)}}catch(e){}})();
-fast-down.com,lnbzi.com,lnbzi.com,linegee.net,aii.sh,srnky.com,clksz.com,fcportables.com,intercelestial.com#%#//scriptlet('set-constant', 'navigator.webdriver', 'true')
+fast-down.com,lnbzi.com,linegee.net,aii.sh,srnky.com,clksz.com,fcportables.com,intercelestial.com#%#(()=>{try{const g=Object.getOwnPropertyDescriptor;Object.getOwnPropertyDescriptor=function(o,p){return o===navigator&&p==='webdriver'?undefined:g(o,p)}}catch(e){}})();
+fast-down.com,lnbzi.com,linegee.net,aii.sh,srnky.com,clksz.com,fcportables.com,intercelestial.com#%#//scriptlet('set-constant', 'navigator.webdriver', 'true')
 fastadmin.net###detail-recommend
 fastadmin.net##.article-section + div .img-responsive
 fastadmin.net##.hot-article + .panel-default
@@ -39779,7 +39784,6 @@ zzztube.com,videoporn.tube##.b-random-column
 ||letv.com/cloud_pl/
 ||letv.com/env/
 ||letv.com/pzt/hyhmzq/index.shtml
-||lf3-data.volccdn.com/obj/data-static/log-sdk/collect/$domain=kimi.ai
 ||lf9-static.bytednsdoc.com/obj/tos-cn-i-0813
 ||lgmi.com/ggimg/
 ||lgmi.com/left_right_
